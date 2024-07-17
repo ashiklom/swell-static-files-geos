@@ -1,0 +1,23 @@
+#
+# Sample resource file exemplifying the specification of an interface to
+# boundary conditions, emissions and other external files. This resource
+# file is meant to be read by the MAPL_ExtData Grid Component.
+#
+
+PrimaryExports%%
+# -------------|-------|-------|--------|----------------------|--------|--------|-------------|----------|
+#  Import      |       |       | Regrid |        Refresh       | OffSet | Scale  | Variable On |   File   |
+#  Name        | Units | Clim  | Method |     Time Template    | Factor | Factor |     File    | Template |
+# -------------|-------|-------|--------|----------------------|--------|--------|-------------|----------|
+
+WSUB_CLIM    'm s'     Y        N         0     0.0      1.0    Wstd      /discover/nobackup/dbarahon/DEV/SWclim/SWclim_2005%m2.nc4
+%%
+
+DerivedExports%%
+# ---------|---------|--------------------------------------------|
+#  Export  | Primary |_________________ Mask _____________________|
+#  Name    |  Name   |    Name    |           Expression          |
+# ---------|---------|------------|-------------------------------|
+# ---------|---------|------------|-------------------------------|
+%%
+

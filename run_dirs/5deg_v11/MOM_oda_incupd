@@ -1,0 +1,25 @@
+! === module MOM_oda_incupd ===
+ODA_INCUPD = True   ! [Boolean] default = False
+                             ! If true, oda incremental updates will be applied
+                             ! everywhere in the domain.
+ODA_INCUPD_FILE = "mom6_increment.nc"   ! The name of the file with the T,S,h increments.
+
+ODA_TEMPINC_VAR = "Temp"        ! default = "ptemp_inc"
+                                ! The name of the potential temperature inc. variable in
+				      	   ! ODA_INCUPD_FILE.
+ODA_SALTINC_VAR = "Salt"        ! default = "sal_inc"
+                                ! The name of the salinity inc. variable in
+                                ! ODA_INCUPD_FILE.
+ODA_THK_VAR = "h"               ! default = "h"
+                                ! The name of the int. depth inc. variable in
+                                ! ODA_INCUPD_FILE.
+ODA_INCUPD_UV = false            !
+ODA_UINC_VAR = "u"              ! default = "u_inc"
+                                ! The name of the zonal vel. inc. variable in
+                                ! ODA_INCUPD_UV_FILE.
+ODA_VINC_VAR = "v"              ! default = "v_inc"
+                                ! The name of the meridional vel. inc. variable in
+                                ! ODA_INCUPD_UV_FILE.
+ODA_INCUPD_NHOURS = 9.0            ! default=3.0
+
+

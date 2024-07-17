@@ -1,0 +1,1983 @@
+g5_modules: Setting BASEDIR and modules for borgf074
+VERSION: GEOSgcm-v11.0.3
+cp: omitting directory '/discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/RC/AMIP'
+cp: omitting directory '/discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/RC/AMIP.20C'
+cp: omitting directory '/discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/RC/mapl_tutorials'
+cp: omitting directory '/discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/RC/MOM5'
+cp: omitting directory '/discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/RC/MOM6'
+Copying /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/GEOSgcm.x to /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/scratch
+
+[1] 16770
+[2] 16771
+[3] 16772
+[2]    Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/gwd_internal_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/gwd_internal_rst .
+[4] 16773
+[5] 16774
+[6] 16775
+[7] 16776
+[8] 16777
+[6]    Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/catchcn_internal_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/catchcn_internal_rst .
+[9] 16778
+[7]    Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/catchcn_internal_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/catchcn_internal_rst .
+[2] 16779
+[6] 16780
+[9]    Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/aiau_import_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/aiau_import_rst .
+[9] 16781
+[6]    Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/moist_import_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/moist_import_rst .
+[2]    Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/gwd_import_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/gwd_import_rst .
+[2] 16782
+[9]    Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/surf_import_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/surf_import_rst .
+[9] 16783
+[2]    Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/solar_internal_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/solar_internal_rst .
+[2] 16784
+[9]    Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/irrad_internal_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/irrad_internal_rst .
+[9] 16785
+[2]    Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/turb_internal_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/turb_internal_rst .
+[2] 16786
+[9]    Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/turb_import_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/turb_import_rst .
+[9] 16787
+[6] 16791
+[7] 16794
+[9]    Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/gocart_import_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/gocart_import_rst .
+[9] 16795
+[7]    Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/gocartdata_internal_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/gocartdata_internal_rst .
+[7] 16796
+[9]    Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/du_internal_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/du_internal_rst .
+[9] 16797
+[7]    Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/ss_internal_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/ss_internal_rst .
+[7] 16798
+[10] 16800
+[11] 16802
+[7]    Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/cabc_internal_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/cabc_internal_rst .
+[9]    Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/caoc_internal_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/caoc_internal_rst .
+[10]   Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/cabr_internal_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/cabr_internal_rst .
+[7] 16803
+[11]   Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/ni_internal_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/ni_internal_rst .
+[9] 16804
+[7]    Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/su_internal_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/su_internal_rst .
+[7] 16805
+[10] 16806
+[9]    Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/achem_internal_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/achem_internal_rst .
+[9] 16807
+[11] 16808
+[10]   Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/tr_import_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/tr_import_rst .
+[9]    Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/hemco_internal_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/hemco_internal_rst .
+[9] 16809
+[11]   Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/hemco_import_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/hemco_import_rst .
+[10] 16810
+[11] 16811
+[9]    Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/saltwater_import_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/saltwater_import_rst .
+[9] 16812
+[12] 16813
+[9]    Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/seaice_import_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/seaice_import_rst .
+[9] 16814
+[12]   Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/seaice_internal_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/seaice_internal_rst .
+[12] 16816
+[9]    Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/ocean_internal_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/ocean_internal_rst .
+[9] 16817
+[12]   Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/geosgcm_surf_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/geosgcm_surf_rst .
+[12] 16819
+[9]    Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/geosgcm_ocn_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/geosgcm_ocn_rst .
+[9] 16820
+[12]   Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/geosgcm_meltwtr_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/geosgcm_meltwtr_rst .
+[12] 16821
+[9]    Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/geosgcm_landice_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/geosgcm_landice_rst .
+[9] 16822
+[12]   Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/geosgcm_snowlayer_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/geosgcm_snowlayer_rst .
+[12] 16823
+[9]    Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/geosgcm_moist_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/geosgcm_moist_rst .
+[9] 16825
+[12]   Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/geosgcm_turb_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/geosgcm_turb_rst .
+[12] 16826
+[13] 16827
+[12]   Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/geosgcm_tend_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/geosgcm_tend_rst .
+[9]    Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/geosgcm_gwd_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/geosgcm_gwd_rst .
+[9] 16828
+[13]   Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/geosgcm_buda_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/geosgcm_buda_rst .
+[12] 16837
+[9]    Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/tavg2d_aer_x_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/tavg2d_aer_x_rst .
+[9] 16838
+[12]   Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/tavg3d_aer_p_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/tavg3d_aer_p_rst .
+[12] 16839
+[9]    Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/geosgcm_tracer_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/geosgcm_tracer_rst .
+[9] 16840
+[12]   Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/geosgcm_rad_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/geosgcm_rad_rst .
+[12] 16841
+[9]    Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/geosgcm_int_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/geosgcm_int_rst .
+[9] 16842
+[12]   Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/geosgcm_seaice_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/geosgcm_seaice_rst .
+[12] 16843
+[9]    Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/geosgcm_icethm_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/geosgcm_icethm_rst .
+[9] 16844
+[12]   Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/geosgcm_ocn2dT_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/geosgcm_ocn2dT_rst .
+[12] 16845
+[13] 16846
+[9]    Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/geosgcm_aoflux_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/geosgcm_aoflux_rst .
+[9] 16847
+[12]   Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/geosgcm_icecat_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/geosgcm_icecat_rst .
+[12] 16848
+[13]   Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/geosgcm_icesig_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/geosgcm_icesig_rst .
+[9]    Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/geosgcm_iceflxn_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/geosgcm_iceflxn_rst .
+[12] + Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/geosgcm_iceflx_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/geosgcm_iceflx_rst .
+[11] - Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/seaicethermo_internal_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/seaicethermo_internal_rst .
+[10] + Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/openwater_internal_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/openwater_internal_rst .
+[7]  + Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/tr_internal_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/tr_internal_rst .
+[6]  + Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/gocart_internal_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/gocart_internal_rst .
+[2]  + Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/pchem_internal_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/pchem_internal_rst .
+[8]  + Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/moist_internal_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/moist_internal_rst .
+[5]  + Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/catch_internal_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/catch_internal_rst .
+[4]  + Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/landice_internal_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/landice_internal_rst .
+[3]  + Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/lake_internal_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/lake_internal_rst .
+[1]  + Done                          if ( -e /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/fvcore_internal_rst ) cp /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/fvcore_internal_rst .
+/bin/rm: cannot remove 'gwd_internal_rst': No such file or directory
+cp: No match.
+Saltwater internal state is already split, good to go!
+/discover/nobackup/dardag/GEOS/latest/install/bin/esma_mpirun: mpi_type = intel
+/usr/local/intel/oneapi/2021/mpi/2021.6.0/bin/mpirun  -np 6 /discover/nobackup/dardag/GEOS_FORWARD/testout/5deg_v11/scratch/GEOSgcm.x --logging_config logging.yaml
+ Starting pFIO input server on Clients
+ Starting pFIO output server on Clients
+           MAPL: INFO: Running with MOAB library for ESMF Mesh: F
+          SHMEM: INFO: NumCores per Node = 6
+          SHMEM: INFO: NumNodes in use   = 1
+          SHMEM: INFO: Total PEs         = 6
+          SHMEM: INFO: NumNodes in use  = 1
+ Integer*4 Resource Parameter: BEG_DATE:18910301 0
+ Integer*4 Resource Parameter: END_DATE:29990302 210000
+ Integer*4 Resource Parameter: JOB_SGMT:5 0
+ Integer*4 Resource Parameter: HEARTBEAT_DT:450
+ NOT using buffer I/O for file: cap_restart
+            CAP: INFO: Read CAP restart properly, Current Date =   2021/06/15
+            CAP: INFO:                            Current Time =   00/00/00
+ Character Resource Parameter: ROOT_CF:AGCM.rc
+ Character Resource Parameter: ROOT_NAME:GCM
+ Character Resource Parameter: HIST_CF:HISTORY.rc
+ Character Resource Parameter: MAPL_ENABLE_TIMERS:YES
+ Logical Resource Parameter: USE_EXTDATA2G:T
+ Integer*4 Resource Parameter: USE_CICE_Thermo:1
+ Integer*4 Resource Parameter: USE_OCEANOBIOGEOCHEM:0, (default value)
+ Integer*4 Resource Parameter: USE_DATAATM:0, (default value)
+ Integer*4 Resource Parameter: USE_DATASEA:0
+ Logical Resource Parameter: SEAICE_THICKNESS_EXT_DATA:F, (default value)
+ Character Resource Parameter: REPLAY_MODE:NoReplay, (default value)
+ Integer*4 Resource Parameter: DUAL_OCEAN:0, (default value)
+ Character Resource Parameter: CONVPAR_OPTION:GF
+ Character Resource Parameter: AERO_PROVIDER:GOCART2G
+ Integer*4 Resource Parameter: ANALYZE_TS:0, (default value)
+ Character Resource Parameter: DYCORE:FV3, (default value)
+ Character Resource Parameter: LAYOUT:fvcore_layout.rc, (default value)
+NOTE from PE     0: MPP_DOMAINS_SET_STACK_SIZE: stack size set to    32768.
+ &MPP_IO_NML
+ HEADER_BUFFER_VAL       =       16384,
+ GLOBAL_FIELD_ON_ROOT_PE = T,
+ IO_CLOCKS_ON    = F,
+ SHUFFLE =           0,
+ DEFLATE_LEVEL   =          -1,
+ CF_COMPLIANCE   = F
+ /
+NOTE from PE     0: MPP_IO_SET_STACK_SIZE: stack size set to     131072.
+NOTE from PE     0: MPP_DOMAINS_SET_STACK_SIZE: stack size set to 24000000.
+                                        20230606 103609.550: Memuse(MB) at fms_init=  1.786E+02  1.818E+02  9.752E-01  1.803E+02
+ Integer*4 Resource Parameter: AGCM_IM:12
+ Integer*4 Resource Parameter: AGCM_JM:72
+ Integer*4 Resource Parameter: AGCM_LM:72, (default value)
+ Real*4 Resource Parameter: AGCM.STRETCH_FACTOR:1.000000, (default value)
+ Real*8 Resource Parameter: FIXED_LATS:15.000000, (default value)
+ Integer*4 Resource Parameter: NX:1
+ Integer*4 Resource Parameter: NY:6
+ Integer*4 Resource Parameter: RUN_DT:450
+ Integer*4 Resource Parameter: AdvCore_Advection:0, (default value)
+ Logical Resource Parameter: ADJUST_DT:F, (default value)
+ Integer*4 Resource Parameter: fix_mass:1, (default value)
+ Integer*4 Resource Parameter: check_mass:0, (default value)
+ Integer*4 Resource Parameter: ADIABATIC:0, (default value)
+ Integer*4 Resource Parameter: FV_OFF:0, (default value)
+ Character Resource Parameter: FV3_CONFIG:STOCK, (default value)
+ For k_split (remapping)=           1
+n_split is set to 02 for resolution-dt=0013x0013x6-  450.000
+Using n_zfilter : 025
+Using n_sponge : 000
+Using non_ortho :       T
+ Starting PEs :            6
+ Starting Threads :            1
+ Cubic: cubed-sphere domain decomposition
+whalo =    3, ehalo =    3, shalo =    3, nhalo =    3
+  X-AXIS =   12
+  Y-AXIS =   12
+ Cubic: cubed-sphere domain decomposition
+whalo =    3, ehalo =    3, shalo =    3, nhalo =    3
+  X-AXIS =   12
+  Y-AXIS =   12
+ Cubic: cubed-sphere domain decomposition
+whalo =    3, ehalo =    3, shalo =    3, nhalo =    3
+  X-AXIS =   12
+  Y-AXIS =   12
+ Cubic: cubed-sphere domain decomposition
+whalo =    3, ehalo =    3, shalo =    3, nhalo =    3
+  X-AXIS =   12
+  Y-AXIS =   12
+ Cubic: cubed-sphere domain decomposition
+whalo =    3, ehalo =    3, shalo =    3, nhalo =    3
+  X-AXIS =   12
+  Y-AXIS =   12
+ Cubic: cubed-sphere domain decomposition
+whalo =    3, ehalo =    3, shalo =    3, nhalo =    3
+  X-AXIS =   12
+  Y-AXIS =   12
+ Cubic: cubed-sphere domain decomposition
+whalo =    1, ehalo =    1, shalo =    1, nhalo =    1
+  X-AXIS =   12
+  Y-AXIS =   12
+ Cubic: cubed-sphere domain decomposition
+whalo =    1, ehalo =    1, shalo =    1, nhalo =    1
+  X-AXIS =   12
+  Y-AXIS =   12
+ Cubic: cubed-sphere domain decomposition
+ Cubic: cubed-sphere domain decomposition
+whalo =    1, ehalo =    1, shalo =    1, nhalo =    1
+  X-AXIS =   12
+  Y-AXIS =   12
+ Cubic: cubed-sphere domain decomposition
+whalo =    1, ehalo =    1, shalo =    1, nhalo =    1
+  X-AXIS =   12
+  Y-AXIS =   12
+whalo =    1, ehalo =    1, shalo =    1, nhalo =    1
+  X-AXIS =   12
+  Y-AXIS =   12
+ Cubic: cubed-sphere domain decomposition
+whalo =    1, ehalo =    1, shalo =    1, nhalo =    1
+  X-AXIS =   12
+  Y-AXIS =   12
+NOTE from PE     0: tracer_manager_init : No tracers are available to be registered.
+NOTE from PE     0: tracer_manager_init : No tracers are available to be registered.
+NOTE from PE     0: tracer_manager_init : No tracers are available to be registered.
+NOTE from PE     0: tracer_manager_init : No tracers are available to be registered.
+NOTE from PE     0: tracer_manager_init : No tracers are available to be registered.
+ ncnst=           0  num_prog=           0  pnats=           0  dnats=
+           0  num_family=           0
+ 
+ Grid distance at face edge (km)=   653536.9    
+RADIUS (m): 0.63710000000000E+07
+PI: 0.31415926535898E+01
+MAX    AREA (m*m): 0.84245616347594E+12          MIN AREA (m*m): 0.39888855833355E+12
+GLOBAL AREA (m*m): 0.51006447190980E+15 IDEAL GLOBAL AREA (m*m): 0.51006447190979E+15
+ 
+  Cubed-Sphere Grid Stats :           13 x          13 x           6
+      Grid Length               : min: 653536.88 max: 921025.94 avg: 773905.64 min/max:      0.71
+      Deviation from Orthogonal : min:      0.00 max:     26.14 avg:      8.16
+      Aspect Ratio              : min:      1.00 max:      1.10 avg:      1.04
+ 
+ Corner interpolation coefficient=   1.44639725197047     
+ Corner interpolation coefficient=   1.44639725197047     
+ Corner interpolation coefficient=   1.44639725197047     
+ Corner interpolation coefficient=   1.44639725197047     
+ Corner interpolation coefficient=   1.44639725197047     
+ Corner interpolation coefficient=   1.44639725197047     
+ da_max/da_min=   2.11200884526620     
+ da_max_c/da_min_c=   2.19904588959038     
+  
+ Divergence damping Coefficients
+ For small dt=   225.0000    
+ External mode del-2 (m**2/s)=  0.000000000000000E+000
+ Internal mode del-2 SMAG dimensionless coeff=  0.2000000    
+ Internal mode del-2 background diff=  0.000000000000000E+000
+ Internal mode del-6 background diff=  0.1200000    
+ tracer del-2 diff=  0.0000000E+00
+ Vorticity del-4 (m**4/s)=   70716477535.4821     
+ beta=  0.0000000E+00
+  
+  ================================================================== 
+ gfdl_cloud_microphys_mod
+ &GFDL_CLOUD_MICROPHYSICS_NML
+ MP_TIME =   150.0000    ,
+ T_MIN   =   178.0000    ,
+ T_SUB   =   184.0000    ,
+ TAU_R2G =   900.0000    ,
+ TAU_SMLT        =   900.0000    ,
+ TAU_G2R =   600.0000    ,
+ DW_LAND =  5.0000001E-02,
+ DW_OCEAN        =  0.1000000    ,
+ VI_FAC  =   1.000000    ,
+ VR_FAC  =   1.000000    ,
+ VS_FAC  =   1.000000    ,
+ VG_FAC  =   1.000000    ,
+ QL_MLT  =  2.0000001E-03,
+ DO_QA   = F,
+ FIX_NEGATIVE    = T,
+ VI_MAX  =  0.5000000    ,
+ VS_MAX  =   5.000000    ,
+ VG_MAX  =   8.000000    ,
+ VR_MAX  =   12.00000    ,
+ QS_MLT  =  1.0000000E-06,
+ QS0_CRT =  1.0000000E-03,
+ QI_GEN  =  9.8267898E-05,
+ QL0_MAX =  2.0000001E-03,
+ QI0_MAX =  9.9999997E-05,
+ QI0_CRT =  7.9999998E-05,
+ QR0_CRT =  9.9999997E-05,
+ FAST_SAT_ADJ    = F,
+ RH_INC  =  0.3000000    ,
+ RH_INS  =  0.2500000    ,
+ RH_INR  =  0.3000000    ,
+ CONST_VI        = F,
+ CONST_VS        = F,
+ CONST_VG        = F,
+ CONST_VR        = F,
+ USE_CCN = T,
+ RTHRESH =  9.9999997E-06,
+ CCN_L   =   300.0000    ,
+ CCN_O   =   100.0000    ,
+ QC_CRT  =  5.0000001E-08,
+ TAU_G2V =   900.0000    ,
+ TAU_V2G =   21600.00    ,
+ TAU_REVP        =   150.0000    ,
+ TAU_FRZ =   450.0000    ,
+ DO_BIGG = F,
+ DO_EVAP = F,
+ DO_SUBL = F,
+ SAT_ADJ0        =  0.9000000    ,
+ C_PIACR =   5.000000    ,
+ TAU_IMLT        =   600.0000    ,
+ TAU_V2L =   150.0000    ,
+ TAU_L2V =   150.0000    ,
+ TAU_I2V =   150.0000    ,
+ TAU_I2S =   1000.000    ,
+ TAU_L2R =   900.0000    ,
+ QI_LIM  =   1.000000    ,
+ QL_GEN  =  1.0000000E-03,
+ C_PAUT  =   1.000000    ,
+ C_PSACI =  5.0000001E-02,
+ C_PGACS =  9.9999998E-03,
+ C_PGACI =  5.0000001E-02,
+ Z_SLOPE_LIQ     = T,
+ Z_SLOPE_ICE     = T,
+ PROG_CCN        = T,
+ C_CRACW =   1.000000    ,
+ ALIN    =   842.0000    ,
+ CLIN    =   4.800000    ,
+ TICE    =   273.1600    ,
+ PRECIPRAD       = T,
+ CLD_MIN =  5.0000001E-02,
+ USE_PPM = F,
+ MONO_PROF       = T,
+ DO_SEDI_HEAT    = T,
+ SEDI_TRANSPORT  = T,
+ DO_SEDI_W       = F,
+ DT_FR   =   8.000000    ,
+ DE_ICE  = F,
+ ICLOUD_F        =           3,
+ IRAIN_F =           0,
+ MP_PRINT        = F
+ /
+  ================================================================== 
+ Dynamics PE Layout 
+NPES_X  :   1
+NPES_Y  :   1
+Resolution of dynamics restart     =   13   13   72
+                 stretch_fac       =    1.0000
+ HEMCO::SetServices - number of HEMCO instances:            1
+--> HEMCO instance 001: HEMCOgocart2g_Config.rc
+  
+Reading entire HEMCO configuration file: HEMCOgocart2g_Config.rc
+ Reading HEMCO configuration file: HEMCOgocart2g_Config.rc
+ adding HEMCO export: OC_ISOPRENE
+ adding HEMCO export: OC_MTPA
+ adding HEMCO export: OC_MTPO
+ adding HEMCO export: OC_LIMO
+ adding HEMCO export: OC_SESQ
+ ACHEM::SetServices: Configuration
+ ACHEM::SetServices:     gas chemistry =  F
+ ACHEM::SetServices: aqueous chemistry =  F
+ ACHEM::SetServices:     VOC chemistry =  T
+ ACHEM::SetServices:     OCS chemistry =  F
+ 
+ GOCART::SetServices: ACTIVE
+  
+ CO_GridCompSetServices: fewer CO bins than possible CO instances:           10
+           1
+ DU::SetServices: Dust emission scheme is ginoux
+  
+ CHEMISTRY::SetServices: RATs Provider List
+   OX: PCHEM
+   O3: PCHEM
+   O3PPMV: PCHEM
+   CH4: PCHEM
+   N2O: PCHEM
+   CFC11: PCHEM
+   CFC12: PCHEM
+   HCFC22: PCHEM
+  
+ CHEMISTRY::SetServices:
+  AERO Provider is GOCART2G
+  
+ CHEMsetup - number of HEMCO instances:            1
+--> HEMCO instance 001: HEMCOgocart2g_Config.rc
+ -->    GMI_instance_of_HEMCO:  F
+ --> GOCART_instance_of_HEMCO:  T
+ Character Resource Parameter: SURFRC:GEOS_SurfaceGridComp.rc, (default value)
+ Integer*4 Resource Parameter: LSM_CHOICE:1, (default value)
+ Integer*4 Resource Parameter: ATM_CO2:2, (default value)
+ Integer*4 Resource Parameter: N_CONST_LAND4SNWALB:0, (default value)
+ Integer*4 Resource Parameter: N_CONST_LANDICE4SNWALB:0, (default value)
+ Character Resource Parameter: LAND_PARAMS:NRv7.2, (default value)
+ Integer*4 Resource Parameter: CHOOSEMOSFC:1, (default value)
+ Logical Resource Parameter: FIRE_DANGER:F, (default value)
+ Integer*4 Resource Parameter: USE_SKIN_LAYER:1
+ Integer*4 Resource Parameter: AEROSOL_DEPOSITION:0, (default value)
+ Integer*4 Resource Parameter: NUM_LDAS_ENSEMBLE:1, (default value)
+ Integer*4 Resource Parameter: ENS_ID_WIDTH:0, (default value)
+ Integer*4 Resource Parameter: RUN_ROUTE:0, (default value)
+ Integer*4 Resource Parameter: CATCHMENT_OFFLINE:0, (default value)
+ Real*4 Resource Parameter: SURFLAY:50.000000, (default value)
+ Integer*4 Resource Parameter: Z0_FORMULATION:4, (default value)
+ Integer*4 Resource Parameter: USE_ASCATZ0:0, (default value)
+ Logical Resource Parameter: USE_FWET_FOR_RUNOFF:F, (default value)
+ Real*4 Resource Parameter: FWETC:.020000, (default value)
+ Real*4 Resource Parameter: FWETL:.020000, (default value)
+ Integer*4 Resource Parameter: SNOW_ALBEDO_INFO:0, (default value)
+ Real*4 Resource Parameter: SOLAR_DT:3600.000000, (default value)
+ Real*4 Resource Parameter: SOLARAvrg:.000000, (default value)
+ Real*4 Resource Parameter: USE_RRTMGP_SORAD:.000000, (default value)
+ Real*4 Resource Parameter: USE_RRTMG_SORAD:1.000000
+ Logical Resource Parameter: SOLAR_TO_OBIO:F, (default value)
+ Integer*4 Resource Parameter: USE_SATSIM:0, (default value)
+ Integer*4 Resource Parameter: USE_SATSIM_ISCCP:1
+ Integer*4 Resource Parameter: USE_SATSIM_MODIS:0, (default value)
+ Integer*4 Resource Parameter: USE_SATSIM_RADAR:0, (default value)
+ Integer*4 Resource Parameter: USE_SATSIM_LIDAR:0, (default value)
+ Integer*4 Resource Parameter: USE_SATSIM_MISR:0, (default value)
+ Parsing of satsim.rc
+ Real*4 Resource Parameter: SYNCTQ:1.000000, (default value)
+ ORBIT::SetServices: ACTIVE
+ Logical Resource Parameter: REPLAY_BLEND_AT_PBL:F, (default value)
+ Integer*4 Resource Parameter: USE_DATASEAICE:0
+ Character Resource Parameter: OCEAN_NAME:MOM6
+ Logical Resource Parameter: OCEAN_EXT_DATA:F, (default value)
+ Character Resource Parameter: SEAICE_NAME:CICE4, (default value)
+ Real*4 Resource Parameter: OGCM_TOP_LAYER:10.000000, (default value)
+ Character Resource Parameter: MOM6_GEOSPLUG:libMOM6_GEOSPlug.so, (default value)
+ Integer*4 Resource Parameter: ASSIMILATION_CYCLE:-999, (default value)
+ Setting ASSIMILATION_CYCLE to        21600
+ Integer*4 Resource Parameter: CORRECTOR_DURATION:-999, (default value)
+ Setting CORRECTOR_DURATION, to        21600
+ Integer*4 Resource Parameter: REPLAY_FILE_FREQUENCY:-999, (default value)
+ Integer*4 Resource Parameter: REPLAY_FILE_REFERENCE_TIME:-999, (default value)
+ Integer*4 Resource Parameter: MKIAU_FREQUENCY:-999, (default value)
+ Integer*4 Resource Parameter: MKIAU_REFERENCE_TIME:-999, (default value)
+ Setting MKIAU_FREQUENCY, to        21600
+ Setting REPLAY_FILE_FREQUENCY, to        21600
+ Setting MKIAU_REFERENCE_TIME, to            0
+ Setting REPLAY_FILE_REFERENCE_TIME, to            0
+ Character Resource Parameter: COMPONENT_TO_RECORD:, (default value)
+ Character Resource Parameter: TILING_FILE:tile.bin
+ NOT using buffer I/O for file: tile.bin
+ NOT using buffer I/O for file: tile.bin
+ Integer*4 Resource Parameter: REPLAY_SHUTOFF:-3600, (default value)
+ Integer*4 Resource Parameter: REPLAY_STARTDATE:20210615, (default value)
+ Integer*4 Resource Parameter: REPLAY_STARTTIME:0, (default value)
+ Integer*4 Resource Parameter: PREDICTOR_DURATION:-999, (default value)
+ Setting PREDICTOR_DURATION based on IAU Frequency:        21600
+ Integer*4 Resource Parameter: MKIAU_RingDate:-999, (default value)
+ Setting MKIAU_RingDate/Time to     20210615           0
+ Logical Resource Parameter: TEST_FRAMEWORK:F, (default value)
+ Logical Resource Parameter: TEST_FRAMEWORK_DRIVER:F, (default value)
+ Integer*4 Resource Parameter: NUM_READERS:1, (default value)
+ Integer*4 Resource Parameter: NUM_WRITERS:1, (default value)
+ Character Resource Parameter: WRITE_RESTART_BY_FACE:NO, (default value)
+ Character Resource Parameter: WRITE_RESTART_BY_OSERVER:NO, (default value)
+ Character Resource Parameter: READ_RESTART_BY_FACE:NO, (default value)
+ Character Resource Parameter: CHECKPOINT_POSITIVE:down, (default value)
+ Real*4 Resource Parameter: DT:450.000000, (default value)
+ Logical Resource Parameter: RUN_AT_INTERVAL_START:F, (default value)
+ Integer*4 Resource Parameter: REFERENCE_DATE:20210615, (default value)
+ Integer*4 Resource Parameter: REFERENCE_TIME:0, (default value)
+ Character Resource Parameter: DYN_INTERNAL_RESTART_FILE:fvcore_internal_rst
+ Integer*4 Resource Parameter: DYN_INTERNAL_HEADER:1
+ Character Resource Parameter: MAPL_ENABLE_BOOTSTRAP:YES
+ Character Resource Parameter: ROMIO_CB_READ:automatic, (default value)
+ Character Resource Parameter: ROMIO_CB_WRITE:enable, (default value)
+ Character Resource Parameter: CB_BUFFER_SIZE:16777216, (default value)
+ Using parallel NetCDF to read file: fvcore_internal_rst
+ Logical Resource Parameter: RESTORE_EXPORT_STATE:F, (default value)
+ Logical Resource Parameter: DO_ADD_INCS:T, (default value)
+ Integer*4 Resource Parameter: COLDSTART:0, (default value)
+  
+Dynamics time step :   450.0000
+  
+Number of true pressure levels =   40
+  
+INITIALIZED ALARM: DYN_TIME_TO_RUN EVERY     450.0 secs.
+  
+ FV3 being run Hydrostatic
+ FV3 water species nwat=           0
+  
+ 
+  + denotes a layer within the "dz-filter" of the dynamics
+  * denotes a layer within the "sponge-layer" of the dynamics
+   k       A(k)       B(k)       Pref        DelP
+ ----   ----------  --------  ----------  ---------
+*+    1    0.010000    0.0000      0.0100
+ +    2    0.020000    0.0000      0.0200     0.0100
+ +    3    0.032700    0.0000      0.0327     0.0127
+ +    4    0.047585    0.0000      0.0476     0.0149
+ +    5    0.066000    0.0000      0.0660     0.0184
+ +    6    0.089345    0.0000      0.0893     0.0233
+ +    7    0.119703    0.0000      0.1197     0.0304
+ +    8    0.159495    0.0000      0.1595     0.0398
+ +    9    0.211349    0.0000      0.2113     0.0519
+ +   10    0.278526    0.0000      0.2785     0.0672
+ +   11    0.365041    0.0000      0.3650     0.0865
+ +   12    0.475806    0.0000      0.4758     0.1108
+ +   13    0.616779    0.0000      0.6168     0.1410
+ +   14    0.795134    0.0000      0.7951     0.1784
+ +   15    1.019440    0.0000      1.0194     0.2243
+ +   16    1.300510    0.0000      1.3005     0.2811
+ +   17    1.650790    0.0000      1.6508     0.3503
+ +   18    2.084970    0.0000      2.0850     0.4342
+ +   19    2.620211    0.0000      2.6202     0.5352
+ +   20    3.276431    0.0000      3.2764     0.6562
+ +   21    4.076571    0.0000      4.0766     0.8001
+ +   22    5.046801    0.0000      5.0468     0.9702
+ +   23    6.216801    0.0000      6.2168     1.1700
+ +   24    7.619842    0.0000      7.6198     1.4030
+ +   25    9.292942    0.0000      9.2929     1.6731
+ +   26   11.276902    0.0000     11.2769     1.9840
+     27   13.643402    0.0000     13.6434     2.3665
+     28   16.457103    0.0000     16.4571     2.8137
+     29   19.791604    0.0000     19.7916     3.3345
+     30   23.730405    0.0000     23.7304     3.9388
+     31   28.367805    0.0000     28.3678     4.6374
+     32   33.810007    0.0000     33.8100     5.4422
+     33   40.175409    0.0000     40.1754     6.3654
+     34   47.643910    0.0000     47.6439     7.4685
+     35   56.387909    0.0000     56.3879     8.7440
+     36   66.603412    0.0000     66.6034    10.2155
+     37   78.512313    0.0000     78.5123    11.9089
+     38   92.365721    0.0000     92.3657    13.8534
+     39  108.663015    0.0000    108.6630    16.2973
+     40  127.837028    0.0000    127.8370    19.1740
+     41  150.393024    0.0000    150.3930    22.5560
+     42  176.930035    0.0000    176.9300    26.5370
+     43  201.192007    0.0070    208.1520    31.2220
+     44  216.865015    0.0280    244.8751    36.7230
+     45  224.363003    0.0637    288.0831    43.2080
+     46  223.898003    0.1136    337.5001    49.4170
+     47  218.775972    0.1562    375.0001    37.5000
+     48  212.149976    0.2004    412.5001    37.5000
+     49  203.258980    0.2467    450.0001    37.5000
+     50  193.096949    0.2944    487.5001    37.5000
+     51  181.618961    0.3434    525.0001    37.5000
+     52  169.608961    0.3929    562.5001    37.5000
+     53  156.259957    0.4437    600.0001    37.5000
+     54  142.909948    0.4946    637.5001    37.5000
+     55  128.695935    0.5463    675.0001    37.5000
+     56  118.958620    0.5810    700.0001    25.0000
+     57  109.181707    0.6158    725.0001    25.0000
+     58   99.365213    0.6506    750.0002    25.0000
+     59   89.099920    0.6859    774.9998    24.9997
+     60   78.834217    0.7212    800.0002    25.0003
+     61   70.621981    0.7494    820.0002    20.0000
+     62   64.362635    0.7706    835.0001    15.0000
+     63   58.053212    0.7919    850.0002    15.0000
+     64   51.696107    0.8133    865.0001    14.9999
+     65   45.339008    0.8347    880.0000    14.9999
+     66   38.982008    0.8560    895.0000    15.0001
+     67   32.570807    0.8774    909.9998    14.9998
+     68   26.092006    0.8989    925.0000    15.0002
+     69   19.613105    0.9204    940.0001    15.0001
+     70   13.134803    0.9419    954.9998    14.9997
+     71    6.593752    0.9634    969.9998    14.9999
+     72    0.048048    0.9850    985.0000    15.0002
+     73    0.000000    1.0000   1000.0000    15.0000
+ 
+ Integer*4 Resource Parameter: FV3_STANDALONE:0, (default value)
+ Character Resource Parameter: GWD_IMPORT_RESTART_FILE:gwd_import_rst
+ Bootstrapping gwd_import_rst
+ Character Resource Parameter: GWD_INTERNAL_RESTART_FILE:gwd_internal_rst
+ Integer*4 Resource Parameter: INTERNAL_HEADER:0, (default value)
+ Using parallel NetCDF to read file: gwd_internal_rst
+   Bootstrapping Variable: EFFRDG in gwd_internal_rst
+   Bootstrapping Variable: KWVRDG in gwd_internal_rst
+ Character Resource Parameter: AGCM.GRIDNAME:PE12x72-CF
+ Integer*4 Resource Parameter: GEOS_PGWV:4, (default value)
+ Real*4 Resource Parameter: GEOS_BGSTRESS:.900000, (default value)
+ Real*4 Resource Parameter: GEOS_EFFGWBKG:.125000, (default value)
+ Real*4 Resource Parameter: GEOS_EFFGWORO:.250000, (default value)
+ Real*4 Resource Parameter: NCAR_EFFGWBKG:.000000, (default value)
+ Real*4 Resource Parameter: NCAR_EFFGWORO:.000000, (default value)
+ Integer*4 Resource Parameter: NCAR_NRDG:0, (default value)
+ Real*4 Resource Parameter: HGT_SURFACE:.000000, (default value)
+ Real*4 Resource Parameter: RAYLEIGH_TAU1:172800.000000, (default value)
+ Real*4 Resource Parameter: BELJAARS_EFF_FACTOR:.000000, (default value)
+ Real*4 Resource Parameter: BELJAARS_LIMITER:400.000000, (default value)
+ Real*4 Resource Parameter: RAYLEIGH_Z1:75000.000000, (default value)
+ Real*4 Resource Parameter: RAYLEIGH_H0:7000.000000, (default value)
+ Real*4 Resource Parameter: RAYLEIGH_HH:7500.000000, (default value)
+ Logical Resource Parameter: NCAR_TAU_TOP_ZERO:T, (default value)
+ Real*4 Resource Parameter: NCAR_PRNDL:.500000, (default value)
+ Real*4 Resource Parameter: NCAR_QBO_HDEPTH_SCALING:.125000, (default value)
+ Real*4 Resource Parameter: NCAR_HR_CF:50.000000, (default value)
+ Character Resource Parameter: BERES_FILE_NAME:ExtData/g5gcm/gwd/newmfspectra40_dc25.nc, (default value)
+ Integer*4 Resource Parameter: NCAR_BKG_PGWV:32, (default value)
+ Real*4 Resource Parameter: NCAR_BKG_GW_DC:2.500000, (default value)
+ Real*4 Resource Parameter: NCAR_BKG_FCRIT2:1.000000, (default value)
+ Real*4 Resource Parameter: NCAR_BKG_WAVELENGTH:100000.000000, (default value)
+ Real*4 Resource Parameter: NCAR_ET_TAUBGND:50.000000, (default value)
+ Real*4 Resource Parameter: NCAR_BKG_TNDMAX:800.000000, (default value)
+ Real*4 Resource Parameter: NCAR_DC_BERES_SRC_LEVEL:70000.000000, (default value)
+ Logical Resource Parameter: NCAR_DC_BERES:T, (default value)
+ Real*4 Resource Parameter: NCAR_SC_BERES_SRC_LEVEL:90000.000000, (default value)
+ Logical Resource Parameter: NCAR_SC_BERES:F, (default value)
+ Integer*4 Resource Parameter: NCAR_ORO_PGWV:0, (default value)
+ Real*4 Resource Parameter: NCAR_ORO_GW_DC:2.500000, (default value)
+ Real*4 Resource Parameter: NCAR_ORO_FCRIT2:1.000000, (default value)
+ Real*4 Resource Parameter: NCAR_ORO_WAVELENGTH:100000.000000, (default value)
+ Real*4 Resource Parameter: NCAR_ORO_SOUTH_FAC:2.000000, (default value)
+ Character Resource Parameter: MOIST_IMPORT_RESTART_FILE:moist_import_rst
+ Bootstrapping moist_import_rst
+ Character Resource Parameter: MOIST_INTERNAL_RESTART_FILE:moist_internal_rst
+ Using parallel NetCDF to read file: moist_internal_rst
+   Bootstrapping Variable: CUSH in moist_internal_rst
+ Logical Resource Parameter: DIAGNOSE_PRECIP_TYPE:F, (default value)
+ Logical Resource Parameter: UPDATE_PRECIP_TYPE:F, (default value)
+ Logical Resource Parameter: HYDROSTATIC:T, (default value)
+ Logical Resource Parameter: USE_AEROSOL_NN:T, (default value)
+ Logical Resource Parameter: USE_BERGERON:T, (default value)
+ Logical Resource Parameter: USE_AERO_BUFFER:T, (default value)
+ INITIALIZED aer_cloud_init
+ Real*4 Resource Parameter: NCCN_OCN:100.000000, (default value)
+ Real*4 Resource Parameter: NCCN_LND:300.000000, (default value)
+ Real*4 Resource Parameter: GF_DT:450.000000, (default value)
+ Integer*4 Resource Parameter: USE_GF2020:0, (default value)
+ Integer*4 Resource Parameter: DEEP:1, (default value)
+ Integer*4 Resource Parameter: SHALLOW:0, (default value)
+ Integer*4 Resource Parameter: CONGESTUS:1, (default value)
+ Integer*4 Resource Parameter: CLOSURE_DEEP:0, (default value)
+ Integer*4 Resource Parameter: CLOSURE_SHALLOW:7, (default value)
+ Integer*4 Resource Parameter: CLOSURE_CONGESTUS:3, (default value)
+ Real*4 Resource Parameter: ENTR_DP:.000100, (default value)
+ Real*4 Resource Parameter: ENTR_SH:.001400, (default value)
+ Real*4 Resource Parameter: ENTR_MD:.000900, (default value)
+ Real*4 Resource Parameter: C1:.001000, (default value)
+ Integer*4 Resource Parameter: USE_TRACER_TRANSP:1, (default value)
+ Integer*4 Resource Parameter: USE_TRACER_SCAVEN:1, (default value)
+ Integer*4 Resource Parameter: USE_SCALE_DEP:1, (default value)
+ Integer*4 Resource Parameter: DICYCLE:1, (default value)
+ Logical Resource Parameter: STOCHASTIC_CNV:F, (default value)
+ Real*4 Resource Parameter: GF_MIN_AREA:1000000.000000, (default value)
+ Real*4 Resource Parameter: TAU_DEEP:5400.000000, (default value)
+ Real*4 Resource Parameter: TAU_MID:3600.000000, (default value)
+ Integer*4 Resource Parameter: USE_FLUX_FORM:1, (default value)
+ Integer*4 Resource Parameter: USE_FCT:0, (default value)
+ Integer*4 Resource Parameter: USE_TRACER_EVAP:1, (default value)
+ Real*4 Resource Parameter: ALP1:1.000000, (default value)
+ Integer*4 Resource Parameter: BC_METH:0, (default value)
+ Real*4 Resource Parameter: C0_DEEP:.002000, (default value)
+ Real*4 Resource Parameter: C0_MID:.002000, (default value)
+ Real*4 Resource Parameter: C0_SHAL:.001000, (default value)
+ Real*4 Resource Parameter: QRC_CRIT:.000200, (default value)
+ Character Resource Parameter: GF_ENV_SETTING:DYNAMICS, (default value)
+ Real*4 Resource Parameter: SCLM_DEEP:1.000000, (default value)
+ Logical Resource Parameter: FIX_CNV_CLOUD:F, (default value)
+ Real*4 Resource Parameter: UW_DT:450.000000, (default value)
+ Integer*4 Resource Parameter: USE_TRACER_TRANSP_UW:1, (default value)
+ Logical Resource Parameter: JASON_UW:T, (default value)
+ Integer*4 Resource Parameter: WINDSRCAVG:0, (default value)
+ Real*4 Resource Parameter: MIXSCALE:.000000, (default value)
+ Real*4 Resource Parameter: CRIQC:.001000, (default value)
+ Real*4 Resource Parameter: THLSRC_FAC:.000000, (default value)
+ Real*4 Resource Parameter: SCLM_SHALLOW:1.000000, (default value)
+ Real*4 Resource Parameter: FRC_RASN:.000000, (default value)
+ Real*4 Resource Parameter: RKM:12.000000, (default value)
+ Real*4 Resource Parameter: RPEN:3.000000, (default value)
+ Integer*4 Resource Parameter: NITER_XC:2, (default value)
+ Integer*4 Resource Parameter: ITER_CIN:2, (default value)
+ Integer*4 Resource Parameter: USE_CINCIN:1, (default value)
+ Integer*4 Resource Parameter: CRIDIST_OPT:0, (default value)
+ Integer*4 Resource Parameter: USE_SELF_DETRAIN:0, (default value)
+ Integer*4 Resource Parameter: USE_MOMENFLX:1, (default value)
+ Integer*4 Resource Parameter: USE_CUMPENENT:1, (default value)
+ Integer*4 Resource Parameter: SCVERBOSE:0, (default value)
+ Real*4 Resource Parameter: RLE:.100000, (default value)
+ Real*4 Resource Parameter: RMAXFRAC:.100000, (default value)
+ Real*4 Resource Parameter: MUMIN1:.906000, (default value)
+ Real*4 Resource Parameter: RBUOY:1.000000, (default value)
+ Real*4 Resource Parameter: RDRAG:1.000000, (default value)
+ Real*4 Resource Parameter: EPSVARW:.000500, (default value)
+ Real*4 Resource Parameter: PGFC:.700000, (default value)
+ Real*4 Resource Parameter: KEVP:.000002, (default value)
+ Real*4 Resource Parameter: SHLW_RDROP:.000008, (default value)
+ Real*4 Resource Parameter: DETRHGT:1800.000000, (default value)
+ Real*4 Resource Parameter: QTSRC_FAC:.000000, (default value)
+ Real*4 Resource Parameter: QTSRCHGT:40.000000, (default value)
+ Real*4 Resource Parameter: RKFRE:1.000000, (default value)
+ Real*4 Resource Parameter: CCW_EVAP_EFF:.004000, (default value)
+ Real*4 Resource Parameter: CCI_EVAP_EFF:.004000, (default value)
+ Real*4 Resource Parameter: HYSTPDFOPT:1.000000, (default value)
+ Real*4 Resource Parameter: PDFSHAPE:1.000000, (default value)
+ Real*4 Resource Parameter: CNV_BETA:10.000000, (default value)
+ Real*4 Resource Parameter: ANV_BETA:4.000000, (default value)
+ Real*4 Resource Parameter: LS_BETA:4.000000, (default value)
+ Real*4 Resource Parameter: RH_CRIT:1.000000, (default value)
+ Real*4 Resource Parameter: QC_CRIT_LS:.000800, (default value)
+ Real*4 Resource Parameter: ACCRETION:2.000000, (default value)
+ Real*4 Resource Parameter: RAIN_REVAP_FAC:1.000000, (default value)
+ Real*4 Resource Parameter: SNOW_REVAP_FAC:1.000000, (default value)
+ Real*4 Resource Parameter: AUTOC_LS:.001000, (default value)
+ Real*4 Resource Parameter: AUTOC_ANV:.001000, (default value)
+ Real*4 Resource Parameter: LS_SUND_INTER:1.000000, (default value)
+ Real*4 Resource Parameter: LS_SUND_COLD:1.000000, (default value)
+ Real*4 Resource Parameter: LS_SUND_TEMP1:230.000000, (default value)
+ Real*4 Resource Parameter: ANV_SUND_INTER:1.000000, (default value)
+ Real*4 Resource Parameter: ANV_SUND_COLD:1.000000, (default value)
+ Real*4 Resource Parameter: ANV_SUND_TEMP1:230.000000, (default value)
+ Real*4 Resource Parameter: ANV_TO_LS_TIME:14400.000000, (default value)
+ Real*4 Resource Parameter: DISABLE_RAD:.000000, (default value)
+ Real*4 Resource Parameter: REVAP_OFF_P:2000.000000, (default value)
+ Real*4 Resource Parameter: ICE_RAMP:-27.000000, (default value)
+ Real*4 Resource Parameter: CNV_DDRF:.000000, (default value)
+ Real*4 Resource Parameter: ANV_DDRF:.000000, (default value)
+ Real*4 Resource Parameter: LS_DDRF:.000000, (default value)
+ Real*4 Resource Parameter: QC_CRIT_ANV:.000800, (default value)
+ Real*4 Resource Parameter: ICE_SETTLE:1.000000, (default value)
+ Real*4 Resource Parameter: ANV_ICEFALL:1.000000, (default value)
+ Real*4 Resource Parameter: LS_ICEFALL:1.000000, (default value)
+ Real*4 Resource Parameter: FAC_RI:1.000000, (default value)
+ Real*4 Resource Parameter: MIN_RI:.000015, (default value)
+ Real*4 Resource Parameter: MAX_RI:.000150, (default value)
+ Real*4 Resource Parameter: FAC_RL:1.000000, (default value)
+ Real*4 Resource Parameter: MIN_RL:.000005, (default value)
+ Real*4 Resource Parameter: MAX_RL:.000021, (default value)
+ Real*4 Resource Parameter: CNV_ENVF:1.000000, (default value)
+ Real*4 Resource Parameter: ANV_ENVF:1.000000, (default value)
+ Real*4 Resource Parameter: SC_ENVF:1.000000, (default value)
+ Real*4 Resource Parameter: LS_ENVF:1.000000, (default value)
+ Real*4 Resource Parameter: FR_LS_WAT:1.000000, (default value)
+ Real*4 Resource Parameter: FR_AN_WAT:1.000000, (default value)
+ Real*4 Resource Parameter: FR_LS_ICE:.000000, (default value)
+ Real*4 Resource Parameter: FR_AN_ICE:.000000, (default value)
+ Integer*4 Resource Parameter: CFPBL_EXP:1, (default value)
+ Real*4 Resource Parameter: MINRHCRITLND:.800000, (default value)
+ Real*4 Resource Parameter: MINRHCRITOCN:.800000, (default value)
+ Real*4 Resource Parameter: MAXRHCRITLND:1.000000, (default value)
+ Real*4 Resource Parameter: MAXRHCRITOCN:1.000000, (default value)
+ Real*4 Resource Parameter: TURNRHCRIT:750.000000, (default value)
+ Real*4 Resource Parameter: CNV_FRACTION_MIN:500.000000, (default value)
+ Real*4 Resource Parameter: CNV_FRACTION_MAX:1500.000000, (default value)
+ Real*4 Resource Parameter: CNV_FRACTION_EXP:1.000000, (default value)
+ Character Resource Parameter: TURBULENCE_IMPORT_RESTART_FILE:turb_import_rst
+ Bootstrapping turb_import_rst
+ Character Resource Parameter: TURBULENCE_INTERNAL_RESTART_FILE:turb_internal_rst
+ Bootstrapping turb_internal_rst
+ Real*4 Resource Parameter: CHEMISTRY_DT:450.000000, (default value)
+ Logical Resource Parameter: CHEMISTRY_RUN_AT_INTERVAL_START:T
+ MOIST_flashFactor is    2.000000    
+ Real*4 Resource Parameter: HEMCO_DT:450.000000, (default value)
+ Character Resource Parameter: HEMCO_IMPORT_RESTART_FILE:hemco_import_rst
+ Bootstrapping hemco_import_rst
+ Character Resource Parameter: HEMCO_INTERNAL_RESTART_FILE:hemco_internal_rst
+ Bootstrapping hemco_internal_rst
+ Character Resource Parameter: PCHEM_INTERNAL_RESTART_FILE:pchem_internal_rst
+ Using parallel NetCDF to read file: pchem_internal_rst
+ Character Resource Parameter: RATS_PROVIDER:PCHEM, (default value)
+ Character Resource Parameter: pchem_clim:species.data
+ Integer*4 Resource Parameter: pchem_clim_years:1, (default value)
+ Integer*4 Resource Parameter: H2O_ProdLoss:0, (default value)
+ ACHEM::Initialize_: Starting...
+ 
+ Character Resource Parameter: ACHEM_INTERNAL_RESTART_FILE:achem_internal_rst
+ Bootstrapping achem_internal_rst
+ GOCART::Initialize_: Starting...
+  
+ Real*4 Resource Parameter: GOCART_DT:450.000000, (default value)
+ Integer*4 Resource Parameter: GOCART_REFERENCE_TIME:-999, (default value)
+ Character Resource Parameter: GOCART_IMPORT_RESTART_FILE:gocart_import_rst
+ Bootstrapping gocart_import_rst
+ Character Resource Parameter: GOCART_INTERNAL_RESTART_FILE:gocart_internal_rst
+ Using parallel NetCDF to read file: gocart_internal_rst
+ GOCART::Initialize_: Diurnal Biomass Burning is ON
+ CO_GridCompInitialize: fewer CO bins than possible CO instances:           11
+           1
+  
+ CO_GridCompInitialize: Initializing instance  [           1 ]
+ GOCART2G::Initialize: Starting...
+  
+ Character Resource Parameter: DU_INTERNAL_RESTART_FILE:du_internal_rst
+ Bootstrapping du_internal_rst
+ Character Resource Parameter: SS_INTERNAL_RESTART_FILE:ss_internal_rst
+ Bootstrapping ss_internal_rst
+ Character Resource Parameter: CA.oc_INTERNAL_RESTART_FILE:caoc_internal_rst
+ Bootstrapping caoc_internal_rst
+ Character Resource Parameter: CA.bc_INTERNAL_RESTART_FILE:cabc_internal_rst
+ Bootstrapping cabc_internal_rst
+ Character Resource Parameter: CA.br_INTERNAL_RESTART_FILE:cabr_internal_rst
+ Bootstrapping cabr_internal_rst
+ ===================>
+ MAPL_StateCreateFromSpecNew: var SU_NO3 already exists. Skipping ...
+ ===================>
+ MAPL_StateCreateFromSpecNew: var SU_OH already exists. Skipping ...
+ ===================>
+ MAPL_StateCreateFromSpecNew: var SU_H2O2 already exists. Skipping ...
+ Character Resource Parameter: SU_INTERNAL_RESTART_FILE:su_internal_rst
+ Bootstrapping su_internal_rst
+ Character Resource Parameter: NI_INTERNAL_RESTART_FILE:ni_internal_rst
+ Bootstrapping ni_internal_rst
+ Character Resource Parameter: TR_IMPORT_RESTART_FILE:tr_import_rst
+ Bootstrapping tr_import_rst
+ Character Resource Parameter: TR_INTERNAL_RESTART_FILE:tr_internal_rst
+ Using parallel NetCDF to read file: tr_internal_rst
+ 
+ Simple Bundle: TR_PASSIVE_TRACERS
+ aoa              max =    1719.067      min =   0.0000000E+00
+ e90              max =   4.0094665E-07  min =   2.9130275E-12
+ Rn222            max =   2.8878139E-19  min =   0.0000000E+00
+ CH3I             max =   6.0980370E-19  min =   0.0000000E+00
+ 
+ MASK min and max :        75230      133000
+ MASK min and max :       115230      173000
+ Executing getFriendlies for DU
+ Executing getFriendlies for SS
+ Executing getFriendlies for CA.oc
+ Executing getFriendlies for CA.bc
+ Executing getFriendlies for CA.br
+ Executing getFriendlies for SU
+ Executing getFriendlies for NI
+ Integer*4 Resource Parameter: CICE_N_ICE_CATEGORIES:5
+ Integer*4 Resource Parameter: CICE_N_ICE_LAYERS:4
+ Real*4 Resource Parameter: CICE_DT:3600.000000, (default value)
+ Real*4 Resource Parameter: ALBICEV:.780000
+ Real*4 Resource Parameter: ALBICEI:.360000
+ Real*4 Resource Parameter: ALBSNOWV:.980000
+ Real*4 Resource Parameter: ALBSNOWI:.700000
+ Character Resource Parameter: CICE_CONDUCTIVITY:bubbly, (default value)
+ Character Resource Parameter: CICE_SHORTWAVE:shortwave_ccsm, (default value)
+ Integer*4 Resource Parameter: CICE_DO_POND:0, (default value)
+ Real*4 Resource Parameter: CICE_USTAR_MIN:.001000, (default value)
+ Real*4 Resource Parameter: CICE_AH_MAX:.300000
+ Real*4 Resource Parameter: CICE_SNOW_PATCH:.020000, (default value)
+ Real*4 Resource Parameter: CICE_DALB_MLT:-.075000, (default value)
+ Real*4 Resource Parameter: ICE_REF_SALINITY:4.000000, (default value)
+ Integer*4 Resource Parameter: PRESCRIBED_ICE:0
+ Model time step =    3600.000    
+ Sea ice albedo parameters:
+ ALBICEV  =   0.7800000    
+ ALBICEI  =   0.3600000    
+ ALBSNOWV =   0.9800000    
+ ALBSNOWI =   0.7000000    
+ Sea ice conductivity parameterization:
+ CONDTYPE = 
+ bubbly                                                                         
+                                                                                
+                                                                                
+                    
+ DO NOT do any explicit melt ponding
+ Sea ice shortwave parameterization:
+ shortwave = 
+ shortwave_ccsm                                                                 
+                                                                                
+                                                                                
+                    
+ ustar_min =   1.0000000E-03
+ ahmax     =   0.3000000    
+ Allocating column physics arrays from SEAICETHERMOInitialize
+  
+ hin_max(n-1) < Cat n < hin_max(n)
+  0.000000000000000E+000  < Cat            1  <   0.644507216819426     
+  0.644507216819426       < Cat            2  <    1.39143349757630     
+   1.39143349757630       < Cat            3  <    2.47017938195989     
+   2.47017938195989       < Cat            4  <    4.56728791885049     
+   4.56728791885049       < Cat            5  <    9.33384181586817     
+  
+ Character Resource Parameter: SEAICETHERMO_INTERNAL_RESTART_FILE:seaicethermo_internal_rst
+ Using parallel NetCDF to read file: seaicethermo_internal_rst
+ Character Resource Parameter: OPENWATER_INTERNAL_RESTART_FILE:openwater_internal_rst
+ Using parallel NetCDF to read file: openwater_internal_rst
+   Bootstrapping Variable: HSKINW in openwater_internal_rst
+   Bootstrapping Variable: SSKINW in openwater_internal_rst
+   Bootstrapping Variable: TSKINW in openwater_internal_rst
+   Bootstrapping Variable: TWMTS in openwater_internal_rst
+ Character Resource Parameter: SALTWATER_IMPORT_RESTART_FILE:saltwater_import_rst
+ Bootstrapping saltwater_import_rst
+ Character Resource Parameter: LAKE_INTERNAL_RESTART_FILE:lake_internal_rst
+ Using parallel NetCDF to read file: lake_internal_rst
+ Character Resource Parameter: LANDICE_INTERNAL_RESTART_FILE:landice_internal_rst
+ Using parallel NetCDF to read file: landice_internal_rst
+ Character Resource Parameter: VEGDYN_INTERNAL_RESTART_FILE:vegdyn.data
+ Using parallel NetCDF to read file: vegdyn.data
+ Character Resource Parameter: CATCH_INTERNAL_RESTART_FILE:catch_internal_rst
+ Using parallel NetCDF to read file: catch_internal_rst
+ Integer*4 Resource Parameter: LDAS_INCR:0, (default value)
+ Character Resource Parameter: SURFACE_IMPORT_RESTART_FILE:surf_import_rst
+ Bootstrapping surf_import_rst
+ Character Resource Parameter: ROUTING_FILE:runoff.bin
+ NOT using buffer I/O for file: runoff.bin
+ Character Resource Parameter: DISCHARGE_ADJUST_FILE:null, (default value)
+ Character Resource Parameter: SOLAR_INTERNAL_RESTART_FILE:solar_internal_rst
+ Bootstrapping solar_internal_rst
+ Real*4 Resource Parameter: IRRAD_DT:3600.000000
+ Character Resource Parameter: IRRAD_INTERNAL_RESTART_FILE:irrad_internal_rst
+ Bootstrapping irrad_internal_rst
+ Real*4 Resource Parameter: SATSIM_DT:3600.000000
+ Integer*4 Resource Parameter: RAD_CONDENSATE_INHOMOGENEITY:1, (default value)
+ Real*4 Resource Parameter: ADL_AM1:1.431500, (default value)
+ Real*4 Resource Parameter: ADL_AM2:2.121900, (default value)
+ Real*4 Resource Parameter: ADL_AM30:7.000000, (default value)
+ Real*4 Resource Parameter: ADL_AM4:-25.584000, (default value)
+ Real*4 Resource Parameter: RDL_AM1:.721920, (default value)
+ Real*4 Resource Parameter: RDL_AM2:.789960, (default value)
+ Real*4 Resource Parameter: RDL_AM30:8.500000, (default value)
+ Real*4 Resource Parameter: RDL_AM4:40.403999, (default value)
+ ACHEM::VOC: in the TURBULENCE Bundle
+ ACHEM::VOCbiob: in the TURBULENCE Bundle
+ CA.bc::CA.bcphilic: in the TURBULENCE Bundle
+ CA.bc::CA.bcphobic: in the TURBULENCE Bundle
+ CA.br::CA.brphilic: in the TURBULENCE Bundle
+ CA.br::CA.brphobic: in the TURBULENCE Bundle
+ CA.oc::CA.ocphilic: in the TURBULENCE Bundle
+ CA.oc::CA.ocphobic: in the TURBULENCE Bundle
+ DU::DU: in the TURBULENCE Bundle
+ DU::DU002: in the TURBULENCE Bundle
+ DU::DU003: in the TURBULENCE Bundle
+ DU::DU004: in the TURBULENCE Bundle
+ DU::DU005: in the TURBULENCE Bundle
+ GOCART::CO: in the TURBULENCE Bundle
+ NI::NH3: in the TURBULENCE Bundle
+ NI::NH4a: in the TURBULENCE Bundle
+ NI::NO3an1: in the TURBULENCE Bundle
+ NI::NO3an2: in the TURBULENCE Bundle
+ NI::NO3an3: in the TURBULENCE Bundle
+ PCHEM::CFC11: in the TURBULENCE Bundle
+ PCHEM::CFC12: in the TURBULENCE Bundle
+ PCHEM::CH4: in the TURBULENCE Bundle
+ PCHEM::HCFC22: in the TURBULENCE Bundle
+ PCHEM::N2O: in the TURBULENCE Bundle
+ PCHEM::OX: in the TURBULENCE Bundle
+ Q: in the TURBULENCE Bundle
+ QICN: in the TURBULENCE Bundle
+ QILS: in the TURBULENCE Bundle
+ QLCN: in the TURBULENCE Bundle
+ QLLS: in the TURBULENCE Bundle
+ QT2: in the TURBULENCE Bundle
+ QT3: in the TURBULENCE Bundle
+ QW: in the TURBULENCE Bundle
+ S: in the TURBULENCE Bundle
+ SS::SS: in the TURBULENCE Bundle
+ SS::SS002: in the TURBULENCE Bundle
+ SS::SS003: in the TURBULENCE Bundle
+ SS::SS004: in the TURBULENCE Bundle
+ SS::SS005: in the TURBULENCE Bundle
+ SU::DMS: in the TURBULENCE Bundle
+ SU::MSA: in the TURBULENCE Bundle
+ SU::SO2: in the TURBULENCE Bundle
+ SU::SO4: in the TURBULENCE Bundle
+ TKESHOC: in the TURBULENCE Bundle
+ TR::CH3I: in the TURBULENCE Bundle
+ TR::Rn222: in the TURBULENCE Bundle
+ TR::aoa: in the TURBULENCE Bundle
+ TR::e90: in the TURBULENCE Bundle
+ U: in the TURBULENCE Bundle
+ V: in the TURBULENCE Bundle
+ ACHEM::VOC: in the DYNAMICS Advection Bundle
+ ACHEM::VOCbiob: in the DYNAMICS Advection Bundle
+ CA.bc::CA.bcphilic: in the DYNAMICS Advection Bundle
+ CA.bc::CA.bcphobic: in the DYNAMICS Advection Bundle
+ CA.br::CA.brphilic: in the DYNAMICS Advection Bundle
+ CA.br::CA.brphobic: in the DYNAMICS Advection Bundle
+ CA.oc::CA.ocphilic: in the DYNAMICS Advection Bundle
+ CA.oc::CA.ocphobic: in the DYNAMICS Advection Bundle
+ CLCN: in the DYNAMICS Advection Bundle
+ CLLS: in the DYNAMICS Advection Bundle
+ DU::DU: in the DYNAMICS Advection Bundle
+ DU::DU002: in the DYNAMICS Advection Bundle
+ DU::DU003: in the DYNAMICS Advection Bundle
+ DU::DU004: in the DYNAMICS Advection Bundle
+ DU::DU005: in the DYNAMICS Advection Bundle
+ GOCART::CO: in the DYNAMICS Advection Bundle
+ NI::NH3: in the DYNAMICS Advection Bundle
+ NI::NH4a: in the DYNAMICS Advection Bundle
+ NI::NO3an1: in the DYNAMICS Advection Bundle
+ NI::NO3an2: in the DYNAMICS Advection Bundle
+ NI::NO3an3: in the DYNAMICS Advection Bundle
+ PCHEM::CFC11: in the DYNAMICS Advection Bundle
+ PCHEM::CFC12: in the DYNAMICS Advection Bundle
+ PCHEM::CH4: in the DYNAMICS Advection Bundle
+ PCHEM::HCFC22: in the DYNAMICS Advection Bundle
+ PCHEM::N2O: in the DYNAMICS Advection Bundle
+ PCHEM::OX: in the DYNAMICS Advection Bundle
+ Q: in the DYNAMICS Advection Bundle
+ QICN: in the DYNAMICS Advection Bundle
+ QILS: in the DYNAMICS Advection Bundle
+ QLCN: in the DYNAMICS Advection Bundle
+ QLLS: in the DYNAMICS Advection Bundle
+ SS::SS: in the DYNAMICS Advection Bundle
+ SS::SS002: in the DYNAMICS Advection Bundle
+ SS::SS003: in the DYNAMICS Advection Bundle
+ SS::SS004: in the DYNAMICS Advection Bundle
+ SS::SS005: in the DYNAMICS Advection Bundle
+ SU::DMS: in the DYNAMICS Advection Bundle
+ SU::MSA: in the DYNAMICS Advection Bundle
+ SU::SO2: in the DYNAMICS Advection Bundle
+ SU::SO4: in the DYNAMICS Advection Bundle
+ TR::CH3I: in the DYNAMICS Advection Bundle
+ TR::Rn222: in the DYNAMICS Advection Bundle
+ TR::aoa: in the DYNAMICS Advection Bundle
+ TR::e90: in the DYNAMICS Advection Bundle
+ PCHEM::OX: in the ANALYSIS Bundle
+ Q: in the ANALYSIS Bundle
+ ACHEM::VOC: in the MOIST Convective transport Bundle
+ ACHEM::VOCbiob: in the MOIST Convective transport Bundle
+ CA.bc::CA.bcphilic: in the MOIST Convective transport Bundle
+ CA.bc::CA.bcphobic: in the MOIST Convective transport Bundle
+ CA.br::CA.brphilic: in the MOIST Convective transport Bundle
+ CA.br::CA.brphobic: in the MOIST Convective transport Bundle
+ CA.oc::CA.ocphilic: in the MOIST Convective transport Bundle
+ CA.oc::CA.ocphobic: in the MOIST Convective transport Bundle
+ CNV_TR: in the MOIST Convective transport Bundle
+ DU::DU: in the MOIST Convective transport Bundle
+ DU::DU002: in the MOIST Convective transport Bundle
+ DU::DU003: in the MOIST Convective transport Bundle
+ DU::DU004: in the MOIST Convective transport Bundle
+ DU::DU005: in the MOIST Convective transport Bundle
+ GOCART::CO: in the MOIST Convective transport Bundle
+ NI::NH3: in the MOIST Convective transport Bundle
+ NI::NH4a: in the MOIST Convective transport Bundle
+ NI::NO3an1: in the MOIST Convective transport Bundle
+ NI::NO3an2: in the MOIST Convective transport Bundle
+ NI::NO3an3: in the MOIST Convective transport Bundle
+ PCHEM::CFC11: in the MOIST Convective transport Bundle
+ PCHEM::CFC12: in the MOIST Convective transport Bundle
+ PCHEM::CH4: in the MOIST Convective transport Bundle
+ PCHEM::HCFC22: in the MOIST Convective transport Bundle
+ PCHEM::N2O: in the MOIST Convective transport Bundle
+ PCHEM::OX: in the MOIST Convective transport Bundle
+ QW: in the MOIST Convective transport Bundle
+ SS::SS: in the MOIST Convective transport Bundle
+ SS::SS002: in the MOIST Convective transport Bundle
+ SS::SS003: in the MOIST Convective transport Bundle
+ SS::SS004: in the MOIST Convective transport Bundle
+ SS::SS005: in the MOIST Convective transport Bundle
+ SU::DMS: in the MOIST Convective transport Bundle
+ SU::MSA: in the MOIST Convective transport Bundle
+ SU::SO2: in the MOIST Convective transport Bundle
+ SU::SO4: in the MOIST Convective transport Bundle
+ TR::CH3I: in the MOIST Convective transport Bundle
+ TR::Rn222: in the MOIST Convective transport Bundle
+ TR::aoa: in the MOIST Convective transport Bundle
+ TR::e90: in the MOIST Convective transport Bundle
+ NOT using buffer I/O for file: topo_dynave.data
+ NOT using buffer I/O for file: topo_dynave.data
+ Real*4 Resource Parameter: GWDVAR_FACTOR:1.000000, (default value)
+ NOT using buffer I/O for file: topo_gwdvar.data
+ Real*4 Resource Parameter: TRBVAR_FACTOR:1.000000, (default value)
+ NOT using buffer I/O for file: topo_trbvar.data
+ NOT using buffer I/O for file: topo_trbvar.data
+ Real*4 Resource Parameter: PREDICTOR_OFFSET:21600.000000, (default value)
+ Real*4 Resource Parameter: 4DIAU_FREQUENCY:3600.000000, (default value)
+ Character Resource Parameter: AIAU_IMPORT_RESTART_FILE:aiau_import_rst
+ Bootstrapping aiau_import_rst
+ Character Resource Parameter: FILTER_TYPE:NULL, (default value)
+ Real*4 Resource Parameter: OCEAN_DT:450.000000, (default value)
+ Character Resource Parameter: CICE4_IMPORT_RESTART_FILE:seaice_import_rst
+ Bootstrapping seaice_import_rst
+ Character Resource Parameter: CICE4_INTERNAL_RESTART_FILE:seaice_internal_rst
+ Bootstrapping seaice_internal_rst
+ Integer*4 Resource Parameter: CICE_COUPLE_OCEAN:1, (default value)
+ CPLS =            1
+ DTI =    3600.000      DTR =    3600.00000000000     
+ CICE MPI comm initialized
+ CICE file units initialized
+ Character Resource Parameter: CICE_PROCESSOR_SHAPE:square-pop, (default value)
+ Character Resource Parameter: CICE_DISTRIBUTION_TYPEcartesian, (default value)
+ Character Resource Parameter: CICE_DISTRIBUTION_WGHT:block, (default value)
+ Character Resource Parameter: CICE_EW_BOUNDARY_TYPE:cyclic, (default value)
+ Character Resource Parameter: CICE_NS_BOUNDARY_TYPE:tripole, (default value)
+ Integer*4 Resource Parameter: OGCM.IM_WORLD:72
+ Integer*4 Resource Parameter: OGCM.JM_WORLD:36
+ Integer*4 Resource Parameter: OGCM.NX:3
+ Integer*4 Resource Parameter: OGCM.NY:2
+ Initializing CICE domain size with: 
+ OGCM_NX =            3 OGCM_NY =            2
+ OGCM_IM =           72 OGCM_JM =           36
+ Allocating CICEDyna arrays from CICE4Initialize
+ CICE work array initialized
+ CICE DISTRIBUTION_TYPE = 
+ cartesian                                                                      
+                                                                                
+                                                                                
+                    
+ CICE PROCESSOR_SHAPE = 
+ square-pop                                                                     
+                                                                                
+                                                                                
+                    
+
+Domain Information
+
+  Horizontal domain: nx =     72
+                     ny =     36
+  No. of categories: nc =      5
+  No. of ice layers: ni =      4
+  No. of snow layers:ns =      1
+  Processors:  total    =      6
+  Processor shape:       square-pop
+  Distribution type:      cartesian
+  Distribution weight:        block
+  max_blocks =                 1
+  Number of ghost cells:       1
+
+ CICE domain blocks initialized
+ CICE timer initialized
+ Character Resource Parameter: CICE_GRIDTYPE:tripole, (default value)
+ Character Resource Parameter: CICE_GRID:grid_cice.bin
+ Character Resource Parameter: CICE_KMT:kmt_cice.bin
+ Character Resource Parameter: CICE_GRIDFORM:bin, (default value)
+ Character Resource Parameter: CICE_KMTFORM:bin, (default value)
+ gridtype =
+ tripole                                                                        
+                                                                                
+                                                                                
+                    
+ gridfile =
+ grid_cice.bin                                                                  
+                                                                                
+                                                                                
+                    
+ kmtfile =
+ kmt_cice.bin                                                                   
+                                                                                
+                                                                                
+                    
+ gridfileform =
+ bin                                                                            
+                                                                                
+                                                                                
+                    
+ kmtfileform =
+ bin                                                                            
+                                                                                
+                                                                                
+                    
+  ice_read_global           12           1  -1.48352990547816     
+   1.57079637050629     
+  ice_read_global           13           1  0.000000000000000E+000
+   1.00000000000000     
+  Processors (X x Y) =    3 x    2
+ block id, proc, local_block:            2           2           1
+ block id, proc, local_block:            3           3           1
+ block id, proc, local_block:            4           4           1
+ block id, proc, local_block:            5           5           1
+ block id, proc, local_block:            6           6           1
+ block id, proc, local_block:            1           1           1
+  Block size:  nx_block =     26
+               ny_block =     20
+ CICE MPI grid1 initialized
+  ice_read           13           1  0.000000000000000E+000
+   1.00000000000000     
+  ice_read_global           12           1  -1.48352990547816     
+   1.57079637050629     
+  ice_read_global           12           2  -4.88692204157511     
+   1.39626344045003     
+  ice_read_global           12           7  -1.57079637050629     
+   1.57079637050629     
+  ice_read_global           12          12  -1.37436954377038     
+   1.37436954377038     
+ **Addional grid info is detected to be in the grid file**
+ **it will be used instead of being recomputed**
+  ice_read_global           12           8  -1.52716313799222     
+   1.52610419579015     
+  ice_read_global           12           9  -4.87841013602880     
+   1.38775153490372     
+  ice_read_global           12          12  -1.37436954377038     
+   1.37436954377038     
+  ice_read_global           12          10   742533259.823502     
+   77252429796.9758     
+  ice_read_global           12          11   808574109.305648     
+   77252429796.9750     
+  ice_read_global           12           3   2422819.10536947     
+   27798731.6611397     
+  ice_read_global           12           4  1.784281949105258E-009
+   27845448.7096016     
+  
+ min/max ULON:  -280.000007791710        80.0000022262028     
+ min/max TLON:  -277.500007722141        77.5000021566340     
+ min/max ULAT:  -75.0000020870651        90.0000025044782     
+ min/max TLAT:  -77.5000021566340        87.4393295159824     
+ CICE MPI grid2 initialized
+ Integer*4 Resource Parameter: CICE_STRENGTH:0
+ Integer*4 Resource Parameter: CICE_RDG_PARTIC:1, (default value)
+ Integer*4 Resource Parameter: CICE_RDG_REDIST:1, (default value)
+ Real*4 Resource Parameter: CICE_MU_RDG:3.000000
+ Real*4 Resource Parameter: CICE_PSTAR:27500.000000, (default value)
+ CICE MPI ice_mechred initialized
+ mu_rdg =    3.000000    
+ Pstar(Hibler79) =    27500.00    
+ Integer*4 Resource Parameter: CICE_NDTE:300, (default value)
+ Integer*4 Resource Parameter: CICE_EVP_DAMPING:0, (default value)
+ Real*4 Resource Parameter: CICE_IO_DRAG:.005360, (default value)
+ CICE NDTE =          300
+ CICE EVP DAMPING            0
+ CICE ICE-OCEAN DRAG   5.3599998E-03
+ CICE evp damping is DISABLED
+ dt  =    3600.00000000000     
+ dte =    12.0000000000000     
+ tdamp =    1296.00000000000     
+ dragio =   5.359999835491180E-003
+ CICE MPI evp initialized
+ CICE MPI coupler flux initialized
+ Character Resource Parameter: CICE_ADVECTION:remap, (default value)
+  USE Incremental Remapping for transport
+ CICE MPI transport initialized
+ Integer*4 Resource Parameter: CICE_NDYN_DT:1, (default value)
+NOTE from PE     0: diag_manager_mod::diag_manager_init: prepend_date only supported when diag_manager_init is called with time_init present.
+ Character Resource Parameter: ocean_wind_stagger:AGRID, (default value)
+  Surface stress stagger for MOM6: AGRID. Its value=            0
+NOTE from PE     0: callTree: ---> ocean_model_init(), ocean_model_MOM.F90
+NOTE from PE     0: open_param_file: MOM_input has been opened successfully.
+NOTE from PE     0: open_param_file: MOM_override has been opened successfully.
+
+WARNING from PE     0: MOM_file_parser : DT over-ridden.  Line: 'DT = 900.0' in file MOM_override.
+
+
+WARNING from PE     0: MOM_file_parser : DT over-ridden.  Line: 'DT = 900.0' in file MOM_override.
+
+
+WARNING from PE     0: MOM_file_parser : DT_THERM over-ridden.  Line: 'DT_THERM = 900.' in file MOM_override.
+
+
+WARNING from PE     0: MOM_file_parser : DT_THERM over-ridden.  Line: 'DT_THERM = 900.' in file MOM_override.
+
+ MOM_in domain decomposition
+whalo =    4, ehalo =    4, shalo =    4, nhalo =    4
+  X-AXIS =   24  24  24
+  Y-AXIS =   18  18
+ MOM_inc domain decomposition
+whalo =    2, ehalo =    2, shalo =    2, nhalo =    2
+  X-AXIS =   12  12  12
+  Y-AXIS =    9   9
+ MOM_in domain decomposition
+whalo =    4, ehalo =    4, shalo =    4, nhalo =    4
+  X-AXIS =   24  24  24
+  Y-AXIS =   18  18
+ MOM_in domain decomposition
+whalo =    2, ehalo =    2, shalo =    2, nhalo =    2
+  X-AXIS =   12  12  12
+  Y-AXIS =    9   9
+ MOM_MOSAIC domain decomposition
+whalo =    9, ehalo =    9, shalo =    9, nhalo =    9
+  X-AXIS =   48  48  48
+  Y-AXIS =   36  36
+ MOM_MOSAIC domain decomposition
+whalo =    4, ehalo =    4, shalo =    4, nhalo =    4
+  X-AXIS =   24  24  24
+  Y-AXIS =   18  18
+
+WARNING from PE     0: MEKE_init: Initializing MEKE with a local equilibrium balance.
+
+
+WARNING from PE     0: MEKE_init: Initializing MEKE with a local equilibrium balance.
+
+
+WARNING from PE     0: KVML is a deprecated parameter. Use KV_ML_INVZ2 instead.
+
+
+WARNING from PE     0: KVML is a deprecated parameter. Use KV_ML_INVZ2 instead.
+
+NOTE from PE     0: MOM_vert_friction: updateCFLtruncationValue set CFL limit to    0.000E+00
+ MOM_in domain decomposition
+whalo =    4, ehalo =    4, shalo =    4, nhalo =    4
+  X-AXIS =   24  24  24
+  Y-AXIS =   18  18
+ MOM_in domain decomposition
+whalo =    2, ehalo =    2, shalo =    2, nhalo =    2
+  X-AXIS =   12  12  12
+  Y-AXIS =    9   9
+
+WARNING from PE     0: set_diffusivity_init: SIMPLE_TKE_TO_KD can not be used reliably with USE_REGRIDDING.
+
+
+WARNING from PE     0: set_diffusivity_init: SIMPLE_TKE_TO_KD can not be used reliably with USE_REGRIDDING.
+
+ MOM_in domain decomposition
+whalo =    0, ehalo =    0, shalo =    0, nhalo =    0
+  X-AXIS =   24  24  24
+  Y-AXIS =   18  18
+NOTE from PE     0: ==== Completed MOM6 Coupled Initialization ====
+  Surface velocity stagger set in ocean model: (MOM6) CGRID_NE.
+ Character Resource Parameter: OCEAN_INTERNAL_RESTART_FILE:ocean_internal_rst
+ Bootstrapping ocean_internal_rst
+ Integer*4 Resource Parameter: INTERPOLATE_SST:0, (default value)
+ Integer*4 Resource Parameter: BYPASS_OGCM:0, (default value)
+  oserver is not split
+ 
+ EXPSRC:GEOSgcm-v11.0.3
+ EXPID: 5deg_v11
+ Descr: 5deg_but_v11
+ DisableSubVmChecks: F
+ 
+ Reading HISTORY RC Files:
+ -------------------------
+ NOT using buffer I/O for file: HISTORY.rc
+ NOT using buffer I/O for file: geosgcm_prog.rcx
+ NOT using buffer I/O for file: geosgcm_surf.rcx
+ NOT using buffer I/O for file: geosgcm_ocn.rcx
+ NOT using buffer I/O for file: geosgcm_moist.rcx
+ NOT using buffer I/O for file: geosgcm_turb.rcx
+ NOT using buffer I/O for file: geosgcm_gwd.rcx
+ NOT using buffer I/O for file: geosgcm_tend.rcx
+ NOT using buffer I/O for file: geosgcm_budi.rcx
+ NOT using buffer I/O for file: geosgcm_buda.rcx
+ NOT using buffer I/O for file: geosgcm_tracer.rcx
+ NOT using buffer I/O for file: tavg2d_aer_x.rcx
+ NOT using buffer I/O for file: tavg3d_aer_p.rcx
+ NOT using buffer I/O for file: geosgcm_rad.rcx
+ NOT using buffer I/O for file: geosgcm_seaice.rcx
+ NOT using buffer I/O for file: geosgcm_icethm.rcx
+ NOT using buffer I/O for file: geosgcm_ocn2dT.rcx
+ DEBUG: monthly averaging is active for collection geosgcm_surf
+ DEBUG: monthly averaging is active for collection geosgcm_ocn
+ DEBUG: monthly averaging is active for collection geosgcm_moist
+ DEBUG: monthly averaging is active for collection geosgcm_turb
+ DEBUG: monthly averaging is active for collection geosgcm_gwd
+ DEBUG: monthly averaging is active for collection geosgcm_tend
+ DEBUG: monthly averaging is active for collection geosgcm_buda
+ DEBUG: monthly averaging is active for collection geosgcm_tracer
+ DEBUG: monthly averaging is active for collection tavg2d_aer_x
+ DEBUG: monthly averaging is active for collection tavg3d_aer_p
+ DEBUG: monthly averaging is active for collection geosgcm_rad
+ DEBUG: monthly averaging is active for collection geosgcm_seaice
+ DEBUG: monthly averaging is active for collection geosgcm_icethm
+ DEBUG: monthly averaging is active for collection geosgcm_ocn2dT
+ 
+ STUBBED in CPL ReadRestart
+ DEBUG: no cpl restart found, producing partial month
+ STUBBED in CPL ReadRestart
+ DEBUG: no cpl restart found, producing partial month
+ STUBBED in CPL ReadRestart
+ DEBUG: no cpl restart found, producing partial month
+ STUBBED in CPL ReadRestart
+ DEBUG: no cpl restart found, producing partial month
+ STUBBED in CPL ReadRestart
+ DEBUG: no cpl restart found, producing partial month
+ STUBBED in CPL ReadRestart
+ DEBUG: no cpl restart found, producing partial month
+ STUBBED in CPL ReadRestart
+ DEBUG: no cpl restart found, producing partial month
+ STUBBED in CPL ReadRestart
+ DEBUG: no cpl restart found, producing partial month
+ STUBBED in CPL ReadRestart
+ DEBUG: no cpl restart found, producing partial month
+ STUBBED in CPL ReadRestart
+ DEBUG: no cpl restart found, producing partial month
+ STUBBED in CPL ReadRestart
+ DEBUG: no cpl restart found, producing partial month
+ STUBBED in CPL ReadRestart
+ DEBUG: no cpl restart found, producing partial month
+ STUBBED in CPL ReadRestart
+ DEBUG: no cpl restart found, producing partial month
+ STUBBED in CPL ReadRestart
+ DEBUG: no cpl restart found, producing partial month
+ Freq: 00060000  Dur: 00060000  TM:   -1  Collection: geosgcm_prog
+ Freq: 00060000  Dur: 00000001  TM:   -1  Collection: geosgcm_surf
+ Freq: 00060000  Dur: 00000001  TM:   -1  Collection: geosgcm_ocn
+ Freq: 00060000  Dur: 00000001  TM:   -1  Collection: geosgcm_moist
+ Freq: 00060000  Dur: 00000001  TM:   -1  Collection: geosgcm_turb
+ Freq: 00060000  Dur: 00000001  TM:   -1  Collection: geosgcm_gwd
+ Freq: 00060000  Dur: 00000001  TM:   -1  Collection: geosgcm_tend
+ Freq: 00030000  Dur: 00030000  TM:   -1  Collection: geosgcm_budi
+ Freq: 00060000  Dur: 00000001  TM:   -1  Collection: geosgcm_buda
+ Freq: 00060000  Dur: 00000001  TM:   -1  Collection: geosgcm_tracer
+ Freq: 00060000  Dur: 00000001  TM:   -1  Collection: tavg2d_aer_x
+ Freq: 00060000  Dur: 00000001  TM:   -1  Collection: tavg3d_aer_p
+ Freq: 00060000  Dur: 00000001  TM:   -1  Collection: geosgcm_rad
+ Freq: 00060000  Dur: 00000001  TM:   -1  Collection: geosgcm_seaice
+ Freq: 00060000  Dur: 00000001  TM:   -1  Collection: geosgcm_icethm
+ Freq: 00060000  Dur: 00000001  TM:   -1  Collection: geosgcm_ocn2dT
+ 
+ Independent Output Export States:
+ ---------------------------------
+           1 AGCM
+           2 DYN
+           3 MOIST
+           4 CHEMISTRY
+           5 TURBULENCE
+           6 SURFACE
+           7 SOLAR
+           8 RADIATION
+           9 SATSIM
+          10 IRRAD
+          11 GWD
+          12 PHYSICS
+          13 CHEMENV
+          14 TR
+          15 GOCART2G
+          16 DU
+          17 SS
+          18 SU
+          19 CA.bc
+          20 CA.oc
+          21 CA.br
+          22 NI
+          23 ACHEM
+          24 GOCART
+          25 SEAICE
+          26 SEAICETHERMO
+          27 MOM6
+          28 OCEAN
+ 
+ Initializing Output Stream: geosgcm_prog
+ --------------------------- 
+       Format: CFIO
+         Mode: instantaneous
+       Slices:          483
+      Deflate:            1
+    Frequency:        60000
+     Ref_Date:     20210615
+     Ref_Time:            0
+     Duration:        60000
+  Output RSLV:           48          25
+    XY-offset:            0   (DcPc: Dateline Center, Pole Center)
+      Fields: PHIS SLP U V T PS H OMEGA QV QI QL RH O3 PLE 
+    Vert Interp  Var: log(PLE)
+    Vertical    Unit: hPa
+    Vertical Scaling:    100.0000    
+    Vertical  Levels:    1000.000       975.0000       950.0000    
+   925.0000       900.0000       875.0000       850.0000       825.0000    
+   800.0000       775.0000       750.0000       725.0000       700.0000    
+   650.0000       600.0000       550.0000       500.0000       450.0000    
+   400.0000       350.0000       300.0000       250.0000       200.0000    
+   150.0000       100.0000       70.00000       50.00000       40.00000    
+   30.00000       20.00000       10.00000       7.000000       5.000000    
+   4.000000       3.000000       2.000000       1.000000      0.7000000    
+  0.5000000      0.4000000      0.3000000      0.2000000      0.1000000    
+  7.0000000E-02  5.0000001E-02  3.9999999E-02  2.9999999E-02  2.0000000E-02
+ 
+ 
+ Initializing Output Stream: geosgcm_surf
+ --------------------------- 
+       Format: CFIO
+         Mode: time-averaged
+       Slices:          153
+      Deflate:            1
+    Frequency: monthly
+     Ref_Date:     20210601
+     Ref_Time:            0
+     Duration: one month
+  Output RSLV:           48          25
+    XY-offset:            0   (DcPc: Dateline Center, Pole Center)
+      Fields: PHIS SGH VARFLT TROPPV TROPPT TROPPB TROPT TROPQ QVFILL OXFILL TA QA US VS PS SPEED PBLH TS QS THAT QHAT CU2DRAINMOVE CU2DSNOWMOVE RAS_TIME CNPRCP LSPRCP ANPRCP LSORIG CNORIG SNO PLS PCU LWP CCWP TAUTT TAULO TAUMD TAUHI CLDTT CLDLO CLDMD CLDHI SPLAND SPWATR RUNOFF BASEFLOW EMIS CT CQ CN CM RISFC LAI GRN SNOMAS VEGTYPE WET1 WET2 WET3 TSOIL1 TSOIL2 FRLAND FRLANDICE FRLAKE FRSEAICE FROCEAN USTAR Z0 Z0H LHFX SHFX EVAP TAUX TAUY RHOS U2M V2M T2M Q2M U10N V10N U10M V10M T10M Q10M U50M V50M GUST VENT ASNOW RADSRF TBISCCP FLNS FLNSC FLNSCNA OLR OLRC OLRCC5 OLRCNA LWS LWSC LWSCC5 LWSCNA SFCEM SWCLDTMP SWCLDPRS OSR OSRCLR SWTNET SWTNETC SWTNETCNA SWTNETNA RADSWT SWGDWN SWGDWNC SWGNET SWGNETC SWGNETNA SWGNETCNA ALBEDO ALBVR ALBVF ALBNR ALBNF EVLAND LHLAND SHLAND SWLAND LWLAND GHLAND SMLAND TWLAND TELAND EVAPOUT COSZ DCOOL DWARM DELT_COOL TS_FOUND TDEL BCOOL LCOOL TBAR USTARW SWCOOL QCOOL DELTS QWARM SWWARM LANGM PHIW TAUTW ZETA_W 
+ 
+ 
+ Initializing Output Stream: geosgcm_ocn
+ --------------------------- 
+       Format: CFIO
+         Mode: time-averaged
+       Slices:           46
+      Deflate:            1
+    Frequency: monthly
+     Ref_Date:     20210601
+     Ref_Time:            0
+     Duration: one month
+  Output RSLV:           48          25
+    XY-offset:            0   (DcPc: Dateline Center, Pole Center)
+      Fields: U10M V10M T10M QV10M HFLUXWTR HFLUXICE EFLUXWTR EFLUXICE LWGNTWTR LWGNTICE SWGNTWTR SWGNTICE PRECSNOOCN RAINOCN TAUXWTR TAUYWTR TAUXICE TAUYICE FRSEAICE TSKINWTR TSKINICE EVAPOUT FRLAND FRLANDICE FRLAKE FROCEAN COSZ DCOOL DWARM TDROP TS_FOUND TDEL BCOOL LCOOL TBAR USTARW SWCOOL QCOOL DELTS QWARM SWWARM LANGM PHIW TAUTW ZETA_W DTSDT_ANA 
+ 
+ 
+ Initializing Output Stream: geosgcm_moist
+ --------------------------- 
+       Format: CFIO
+         Mode: time-averaged
+       Slices:         1153
+      Deflate:            1
+    Frequency: monthly
+     Ref_Date:     20210601
+     Ref_Time:            0
+     Duration: one month
+  Output RSLV:           48          25
+    XY-offset:            0   (DcPc: Dateline Center, Pole Center)
+      Fields: PHIS QL QI QR RICE RLIQ RH1 CNVMF0 CNVMFD CNVMFC REVCN REVAN REVLS RSUCN RSUAN RSULS EVAPC SUBLC FCLD CLCN CLLS QICN QILS QLCN QLLS PLE 
+    Vert Interp  Var: log(PLE)
+    Vertical    Unit: hPa
+    Vertical Scaling:    100.0000    
+    Vertical  Levels:    1000.000       975.0000       950.0000    
+   925.0000       900.0000       875.0000       850.0000       825.0000    
+   800.0000       775.0000       750.0000       725.0000       700.0000    
+   650.0000       600.0000       550.0000       500.0000       450.0000    
+   400.0000       350.0000       300.0000       250.0000       200.0000    
+   150.0000       100.0000       70.00000       50.00000       40.00000    
+   30.00000       20.00000       10.00000       7.000000       5.000000    
+   4.000000       3.000000       2.000000       1.000000      0.7000000    
+  0.5000000      0.4000000      0.3000000      0.2000000      0.1000000    
+  7.0000000E-02  5.0000001E-02  3.9999999E-02  2.9999999E-02  2.0000000E-02
+ 
+ 
+ Initializing Output Stream: geosgcm_turb
+ --------------------------- 
+       Format: CFIO
+         Mode: time-averaged
+       Slices:          579
+      Deflate:            1
+    Frequency: monthly
+     Ref_Date:     20210601
+     Ref_Time:            0
+     Duration: one month
+  Output RSLV:           48          25
+    XY-offset:            0   (DcPc: Dateline Center, Pole Center)
+      Fields: INTDIS TOPDIS SRFDIS DBUOY WERAD KH KM KHLS KMLS EKH EKM KHSFC KHRAD RI DU PLE 
+    Vert Interp  Var: log(PLE)
+    Vertical    Unit: hPa
+    Vertical Scaling:    100.0000    
+    Vertical  Levels:    1000.000       975.0000       950.0000    
+   925.0000       900.0000       875.0000       850.0000       825.0000    
+   800.0000       775.0000       750.0000       725.0000       700.0000    
+   650.0000       600.0000       550.0000       500.0000       450.0000    
+   400.0000       350.0000       300.0000       250.0000       200.0000    
+   150.0000       100.0000       70.00000       50.00000       40.00000    
+   30.00000       20.00000       10.00000       7.000000       5.000000    
+   4.000000       3.000000       2.000000       1.000000      0.7000000    
+  0.5000000      0.4000000      0.3000000      0.2000000      0.1000000    
+  7.0000000E-02  5.0000001E-02  3.9999999E-02  2.9999999E-02  2.0000000E-02
+ 
+ 
+ Initializing Output Stream: geosgcm_gwd
+ --------------------------- 
+       Format: CFIO
+         Mode: time-averaged
+       Slices:          436
+      Deflate:            1
+    Frequency: monthly
+     Ref_Date:     20210601
+     Ref_Time:            0
+     Duration: one month
+  Output RSLV:           48          25
+    XY-offset:            0   (DcPc: Dateline Center, Pole Center)
+      Fields: DUDTORO DVDTORO DUDTBKG DVDTBKG DUDTRAY DVDTRAY TAUOROX TAUOROY TAUBKGX TAUBKGY DTDTORO DTDTBKG DTDTRAY PLE 
+    Vert Interp  Var: log(PLE)
+    Vertical    Unit: hPa
+    Vertical Scaling:    100.0000    
+    Vertical  Levels:    1000.000       975.0000       950.0000    
+   925.0000       900.0000       875.0000       850.0000       825.0000    
+   800.0000       775.0000       750.0000       725.0000       700.0000    
+   650.0000       600.0000       550.0000       500.0000       450.0000    
+   400.0000       350.0000       300.0000       250.0000       200.0000    
+   150.0000       100.0000       70.00000       50.00000       40.00000    
+   30.00000       20.00000       10.00000       7.000000       5.000000    
+   4.000000       3.000000       2.000000       1.000000      0.7000000    
+  0.5000000      0.4000000      0.3000000      0.2000000      0.1000000    
+  7.0000000E-02  5.0000001E-02  3.9999999E-02  2.9999999E-02  2.0000000E-02
+ 
+ 
+ Initializing Output Stream: geosgcm_tend
+ --------------------------- 
+       Format: CFIO
+         Mode: time-averaged
+       Slices:         1200
+      Deflate:            1
+    Frequency: monthly
+     Ref_Date:     20210601
+     Ref_Time:            0
+     Duration: one month
+  Output RSLV:           48          25
+    XY-offset:            0   (DcPc: Dateline Center, Pole Center)
+      Fields: DUDTDYN DVDTDYN DUDTTRB DVDTTRB DUDTMST DVDTMST DUDTGWD DVDTGWD DTDTDYN DTDTMST DTDTTRB DTDTGWD DTDTLW DTDTLWC DTDTLWCNA DTDTSW DTDTSWC DTDTSWNA DTDTSWCNA DTDTFRI DQVDTDYN DQVDTMST DQVDTTRB DQVDTCHM DPDTPHY PLE 
+    Vert Interp  Var: log(PLE)
+    Vertical    Unit: hPa
+    Vertical Scaling:    100.0000    
+    Vertical  Levels:    1000.000       975.0000       950.0000    
+   925.0000       900.0000       875.0000       850.0000       825.0000    
+   800.0000       775.0000       750.0000       725.0000       700.0000    
+   650.0000       600.0000       550.0000       500.0000       450.0000    
+   400.0000       350.0000       300.0000       250.0000       200.0000    
+   150.0000       100.0000       70.00000       50.00000       40.00000    
+   30.00000       20.00000       10.00000       7.000000       5.000000    
+   4.000000       3.000000       2.000000       1.000000      0.7000000    
+  0.5000000      0.4000000      0.3000000      0.2000000      0.1000000    
+  7.0000000E-02  5.0000001E-02  3.9999999E-02  2.9999999E-02  2.0000000E-02
+ 
+ 
+ Initializing Output Stream: geosgcm_budi
+ --------------------------- 
+       Format: CFIO
+         Mode: instantaneous
+       Slices:            5
+      Deflate:            1
+    Frequency:        30000
+     Ref_Date:     20210615
+     Ref_Time:            0
+     Duration:        30000
+  Output RSLV:           48          25
+    XY-offset:            0   (DcPc: Dateline Center, Pole Center)
+      Fields: TQV TQI TQL TOX MASS 
+ 
+ 
+ Initializing Output Stream: geosgcm_buda
+ --------------------------- 
+       Format: CFIO
+         Mode: time-averaged
+       Slices:           21
+      Deflate:            1
+    Frequency: monthly
+     Ref_Date:     20210601
+     Ref_Time:            0
+     Duration: one month
+  Output RSLV:           48          25
+    XY-offset:            0   (DcPc: Dateline Center, Pole Center)
+      Fields: DMDTDYN DMDTANA DMDTPHY DQVDTDYN DQVDTPHY DQVDTANA DQVDTMST DQVDTTRB DQVDTCHM DQLDTDYN DQLDTPHY DQLDTANA DQLDTMST DQIDTDYN DQIDTPHY DQIDTANA DQIDTMST DOXDTDYN DOXDTPHY DOXDTANA DOXDTCHM 
+ 
+ 
+ Initializing Output Stream: geosgcm_tracer
+ --------------------------- 
+       Format: CFIO
+         Mode: time-averaged
+       Slices:          186
+      Deflate:            1
+    Frequency: monthly
+     Ref_Date:     20210601
+     Ref_Time:            0
+     Duration: one month
+  Output RSLV:           48          25
+    XY-offset:            0   (DcPc: Dateline Center, Pole Center)
+      Fields: PS AIRDENS aoa e90 Rn222 CH3I PLE 
+    Vert Interp  Var: log(PLE)
+    Vertical    Unit: hPa
+    Vertical Scaling:    100.0000    
+    Vertical  Levels:    1000.000       975.0000       950.0000    
+   925.0000       900.0000       850.0000       800.0000       750.0000    
+   700.0000       650.0000       600.0000       550.0000       500.0000    
+   450.0000       400.0000       350.0000       300.0000       250.0000    
+   200.0000       150.0000       100.0000       85.00000       70.00000    
+   50.00000       30.00000       20.00000       10.00000       7.000000    
+   5.000000       3.000000       2.000000       1.000000      0.7000000    
+  0.5000000      0.3000000      0.2000000      0.1000000    
+ 
+ 
+ Initializing Output Stream: tavg2d_aer_x
+ --------------------------- 
+       Format: CFIO
+         Mode: time-averaged
+       Slices:          217
+      Deflate:            1
+    Frequency: monthly
+     Ref_Date:     20210601
+     Ref_Time:            0
+     Duration: one month
+  Output RSLV:           48          25
+    XY-offset:            0   (DcPc: Dateline Center, Pole Center)
+      Fields: LWI TOTANGSTR DUSMASS DUCMASS DUANGSTR DUSMASS25 DUCMASS25 DUAERIDX DUFLUXU DUFLUXV SSSMASS SSCMASS SSANGSTR SSSMASS25 SSCMASS25 SSAERIDX SSFLUXU SSFLUXV SO2SMASS SO2CMASS SO4SMASS SO4CMASS DMSSMASS DMSCMASS SUPSO2 SUPSO4G SUPSO4AQ SUPSO4WT SUPMSA SUANGSTR SO4EMAN SO2EMAN SO2EMBB SO2EMVN SO2EMVE SUFLUXU SUFLUXV BCSMASS BCCMASS BCANGSTR BCHYPHIL BCEMBB BCEMBF BCEMAN BCFLUXU BCFLUXV OCSMASS OCCMASS OCANGSTR OCEMBB OCEMBF OCEMAN OCEMBG OCPSOA OCHYPHIL OCFLUXU OCFLUXV BRSMASS BRCMASS BRANGSTR BRPSOA BRHYPHIL BREMBB BREMBF BREMAN BRFLUXU BRFLUXV HNO3SMASS NH3SMASS NH4SMASS NISMASS NISMASS25 HNO3CMASS NH3CMASS NH4CMASS NICMASS NICMASS25 NIANGSTR NIPNO3AQ NIPNH4AQ NIPNH3AQ NH3EM NH3DP NH3WT NH4SD NH4DP NH4WT NIFLUXU NIFLUXV NH3SV NH4SV TOTEXTTAU001 TOTSCATAU001 TOTSTEXTTAU001 TOTSTSCATAU001 DUEM001 DUEM002 DUEM003 DUEM004 DUEM005 DUSD001 DUSD002 DUSD003 DUSD004 DUSD005 DUDP001 DUDP002 DUDP003 DUDP004 DUDP005 DUWT001 DUWT002 DUWT003 DUWT004 DUWT005 DUEXTTAU001 DUSCATAU001 DUSTEXTTAU001 DUSTSCATAU001 DUEXTTFM001 DUSCATFM001 DUEXTT25001 DUSCAT25001 SSEM001 SSEM002 SSEM003 SSEM004 SSEM005 SSSD001 SSSD002 SSSD003 SSSD004 SSSD005 SSDP001 SSDP002 SSDP003 SSDP004 SSDP005 SSWT001 SSWT002 SSWT003 SSWT004 SSWT005 SSEXTTAU001 SSSCATAU001 SSSTEXTTAU001 SSSTSCATAU001 SSEXTTFM001 SSSCATFM001 SSEXTT25001 SSSCAT25001 SUEM SUEM002 SUEM003 SUEM004 SUDP SUDP002 SUDP003 SUDP004 SUWT SUWT002 SUWT003 SUWT004 SUSD SUSD002 SUSD003 SUSD004 SUEXTTAU001 SUSCATAU001 SUSTEXTTAU001 SUSTSCATAU001 BCEM001 BCEM002 BCDP001 BCDP002 BCWT001 BCWT002 CA.bcEXTTAU001 CA.bcSCATAU001 CA.bcSTEXTTAU001 CA.bcSTSCATAU001 OCEM001 OCEM002 OCDP001 OCDP002 OCWT001 OCWT002 CA.ocEXTTAU001 CA.ocSCATAU001 CA.ocSTEXTTAU001 CA.ocSTSCATAU001 BREM001 BREM002 BRDP001 BRDP002 BRWT001 BRWT002 CA.brEXTTAU001 CA.brSCATAU001 CA.brSTEXTTAU001 CA.brSTSCATAU001 NIEXTTFM001 NISCATFM001 NIEXTTAU001 NISCATAU001 NIHT NIHT002 NIHT003 NISD NISD002 NISD003 NIDP NIDP002 NIDP003 NIWT NIWT002 NIWT003 
+ 
+ 
+ Initializing Output Stream: tavg3d_aer_p
+ --------------------------- 
+       Format: CFIO
+         Mode: time-averaged
+       Slices:          678
+      Deflate:            1
+    Frequency: monthly
+     Ref_Date:     20210601
+     Ref_Time:            0
+     Duration: one month
+  Output RSLV:           48          25
+    XY-offset:            0   (DcPc: Dateline Center, Pole Center)
+      Fields: PS LWI AIRDENS H DU SS BC OC BR SO2 SO4 NH3 NH4 NI HNO3CONC NICONC VOC VOCbiob pSOA pSOAbiob CO PLE DUEXTCOEF001 SSEXTCOEF001 SUEXTCOEF001 NIEXTCOEF001 CA.bcEXTCOEF001 CA.brEXTCOEF001 CA.ocEXTCOEF001 
+    Vert Interp  Var: log(PLE)
+    Vertical    Unit: hPa
+    Vertical Scaling:    100.0000    
+    Vertical  Levels:    1000.000       975.0000       950.0000    
+   925.0000       900.0000       850.0000       800.0000       750.0000    
+   700.0000       650.0000       600.0000       550.0000       500.0000    
+   450.0000       400.0000       350.0000       300.0000       250.0000    
+   200.0000       150.0000       100.0000       70.00000       50.00000    
+   30.00000       20.00000       10.00000    
+ 
+ 
+ Initializing Output Stream: geosgcm_rad
+ --------------------------- 
+       Format: CFIO
+         Mode: time-averaged
+       Slices:           42
+      Deflate:            1
+    Frequency: monthly
+     Ref_Date:     20210601
+     Ref_Time:            0
+     Duration: one month
+  Output RSLV:           48          25
+    XY-offset:            0   (DcPc: Dateline Center, Pole Center)
+      Fields: PHIS TAUTT TAULO TAUMD TAUHI CLDTT CLDLO CLDMD CLDHI RADSRF FLNS FLNSC FLNSCNA OLR OLRC OLRCNA LWS LWSC LWSCNA SFCEM SWCLDTMP SWCLDPRS OSR OSRCLR SWTNET SWTNETC SWTNETCNA SWTNETNA RADSWT SWGDWN SWGDWNC SWGNET SWGNETC SWGNETNA SWGNETCNA ALBEDO ALBVR ALBVF ALBNR ALBNF COSZ EMIS 
+ 
+ 
+ Initializing Output Stream: geosgcm_seaice
+ --------------------------- 
+       Format: CFIO
+         Mode: time-averaged
+       Slices:           37
+      Deflate:            1
+    Frequency: monthly
+     Ref_Date:     20210601
+     Ref_Time:            0
+     Duration: one month
+    XY-offset:            0   (DcPc: Dateline Center, Pole Center)
+      Fields: UI VI VEL STRENGTH SHEAR DIVU HICE HICE0 HSNO HSNO0 DRAFT DRAFT0 AICE DVIDTD DAIDTD DVIRDGDT STRCORX STRCORY STRTLTX STRTLTY STRINTX STRINTY TAUXOCNB TAUYOCNB TAUXI TAUYI TAUXIB TAUYIB TAUXBOT TAUYBOT UOCN VOCN SSH SLV AREA FROCEAN TMASK 
+ 
+ 
+ Initializing Output Stream: geosgcm_icethm
+ --------------------------- 
+       Format: CFIO
+         Mode: time-averaged
+       Slices:           18
+      Deflate:            1
+    Frequency: monthly
+     Ref_Date:     20210601
+     Ref_Time:            0
+     Duration: one month
+    XY-offset:            0   (DcPc: Dateline Center, Pole Center)
+      Fields: dvidtt daidtt fbot fswthru ustari ghtskin fcondtop fcondbot MELTT MELTB MELTL MELTS CONGEL FRAZIL SNOICE SUBLIM SNOONICE SUBLIMFLX 
+ 
+ 
+ Initializing Output Stream: geosgcm_ocn2dT
+ --------------------------- 
+       Format: CFIO
+         Mode: time-averaged
+       Slices:           24
+      Deflate:            1
+    Frequency: monthly
+     Ref_Date:     20210601
+     Ref_Time:            0
+     Duration: one month
+    XY-offset:            0   (DcPc: Dateline Center, Pole Center)
+      Fields: US VS TS SS SLV QFLUX LWFLX SWFLX SHFLX RAIN SNOW SFLX RFLUX TAUX TAUY FROCEAN AREA DISCHARGE TS_FOUND SS_FOUND FRZMLT FRAZIL MELT_POT MOM_2D_MASK 
+ 
+ 
+        EXTDATA: INFO: *******************************************************
+        EXTDATA: INFO: ** Variables to be provided by the ExtData Component **
+        EXTDATA: INFO: *******************************************************
+        EXTDATA: INFO: ---- 00001: BC_AIRCRAFT
+        EXTDATA: INFO: ---- 00002: BC_ANTEBC1
+        EXTDATA: INFO: ---- 00003: BC_ANTEBC2
+        EXTDATA: INFO: ---- 00004: BC_AVIATION_CDS
+        EXTDATA: INFO: ---- 00005: BC_AVIATION_CRS
+        EXTDATA: INFO: ---- 00006: BC_AVIATION_LTO
+        EXTDATA: INFO: ---- 00007: BC_BIOFUEL
+        EXTDATA: INFO: ---- 00008: BC_BIOMASS
+        EXTDATA: INFO: ---- 00009: BC_SHIP
+        EXTDATA: INFO: ---- 00010: BRC_AIRCRAFT
+        EXTDATA: INFO: ---- 00011: BRC_ANTEBRC1
+        EXTDATA: INFO: ---- 00012: BRC_ANTEBRC2
+        EXTDATA: INFO: ---- 00013: BRC_AVIATION_CDS
+        EXTDATA: INFO: ---- 00014: BRC_AVIATION_CRS
+        EXTDATA: INFO: ---- 00015: BRC_AVIATION_LTO
+        EXTDATA: INFO: ---- 00016: BRC_BIOFUEL
+        EXTDATA: INFO: ---- 00017: BRC_BIOMASS
+        EXTDATA: INFO: ---- 00018: BRC_SHIP
+        EXTDATA: INFO: ---- 00019: BRC_TERPENE
+        EXTDATA: INFO: ---- 00020: CLM4_PFT_BARE
+        EXTDATA: INFO: ---- 00021: CLM4_PFT_BDLF_DECD_BORL_SHRB
+        EXTDATA: INFO: ---- 00022: CLM4_PFT_BDLF_DECD_BORL_TREE
+        EXTDATA: INFO: ---- 00023: CLM4_PFT_BDLF_DECD_TMPT_SHRB
+        EXTDATA: INFO: ---- 00024: CLM4_PFT_BDLF_DECD_TMPT_TREE
+        EXTDATA: INFO: ---- 00025: CLM4_PFT_BDLF_DECD_TROP_TREE
+        EXTDATA: INFO: ---- 00026: CLM4_PFT_BDLF_EVGN_SHRB
+        EXTDATA: INFO: ---- 00027: CLM4_PFT_BDLF_EVGN_TMPT_TREE
+        EXTDATA: INFO: ---- 00028: CLM4_PFT_BDLF_EVGN_TROP_TREE
+        EXTDATA: INFO: ---- 00029: CLM4_PFT_C3_ARCT_GRSS
+        EXTDATA: INFO: ---- 00030: CLM4_PFT_C3_NARC_GRSS
+        EXTDATA: INFO: ---- 00031: CLM4_PFT_C4_GRSS
+        EXTDATA: INFO: ---- 00032: CLM4_PFT_CROP
+        EXTDATA: INFO: ---- 00033: CLM4_PFT_NDLF_DECD_BORL_TREE
+        EXTDATA: INFO: ---- 00034: CLM4_PFT_NDLF_EVGN_BORL_TREE
+        EXTDATA: INFO: ---- 00035: CLM4_PFT_NDLF_EVGN_TMPT_TREE
+        EXTDATA: INFO: ---- 00036: CO_BF
+        EXTDATA: INFO: ---- 00037: CO_BF_VOC
+        EXTDATA: INFO: ---- 00038: CO_BIOMASS
+        EXTDATA: INFO: ---- 00039: CO_BIOMASS_VOC
+        EXTDATA: INFO: ---- 00040: CO_CH4
+        EXTDATA: INFO: ---- 00041: CO_FS
+        EXTDATA: INFO: ---- 00042: CO_FS_VOC
+        EXTDATA: INFO: ---- 00043: CO_ISOP
+        EXTDATA: INFO: ---- 00044: CO_NVOC
+        EXTDATA: INFO: ---- 00045: CO_OH
+        EXTDATA: INFO: ---- 00046: CO_TERP
+        EXTDATA: INFO: ---- 00047: DD_OX
+        EXTDATA: INFO: ---- 00048: DU_SRC
+        EXTDATA: INFO: ---- 00049: EMI_NH3_AG
+        EXTDATA: INFO: ---- 00050: EMI_NH3_BB
+        EXTDATA: INFO: ---- 00051: EMI_NH3_EN
+        EXTDATA: INFO: ---- 00052: EMI_NH3_IN
+        EXTDATA: INFO: ---- 00053: EMI_NH3_OC
+        EXTDATA: INFO: ---- 00054: EMI_NH3_RE
+        EXTDATA: INFO: ---- 00055: EMI_NH3_TR
+        EXTDATA: INFO: ---- 00056: MEGAN_AEF_BPIN
+        EXTDATA: INFO: ---- 00057: MEGAN_AEF_CARE
+        EXTDATA: INFO: ---- 00058: MEGAN_AEF_ISOP
+        EXTDATA: INFO: ---- 00059: MEGAN_AEF_LIMO
+        EXTDATA: INFO: ---- 00060: MEGAN_AEF_MBOX
+        EXTDATA: INFO: ---- 00061: MEGAN_AEF_OCIM
+        EXTDATA: INFO: ---- 00062: MEGAN_AEF_SABI
+        EXTDATA: INFO: ---- 00063: MEGAN_ORVC
+        EXTDATA: INFO: ---- 00064: NITRATE_HNO3
+        EXTDATA: INFO: ---- 00065: OC_AIRCRAFT
+        EXTDATA: INFO: ---- 00066: OC_ANTEOC1
+        EXTDATA: INFO: ---- 00067: OC_ANTEOC2
+        EXTDATA: INFO: ---- 00068: OC_AVIATION_CDS
+        EXTDATA: INFO: ---- 00069: OC_AVIATION_CRS
+        EXTDATA: INFO: ---- 00070: OC_AVIATION_LTO
+        EXTDATA: INFO: ---- 00071: OC_BIOFUEL
+        EXTDATA: INFO: ---- 00072: OC_BIOMASS
+        EXTDATA: INFO: ---- 00073: OC_SHIP
+        EXTDATA: INFO: ---- 00074: OH
+        EXTDATA: INFO: ---- 00075: OX_TR
+        EXTDATA: INFO: ---- 00076: SRC_2D_CH3I
+        EXTDATA: INFO: ---- 00077: SRC_2D_Rn222
+        EXTDATA: INFO: ---- 00078: SU_AIRCRAFT
+        EXTDATA: INFO: ---- 00079: SU_ANTHROL1
+        EXTDATA: INFO: ---- 00080: SU_ANTHROL2
+        EXTDATA: INFO: ---- 00081: SU_AVIATION_CDS
+        EXTDATA: INFO: ---- 00082: SU_AVIATION_CRS
+        EXTDATA: INFO: ---- 00083: SU_AVIATION_LTO
+        EXTDATA: INFO: ---- 00084: SU_BIOMASS
+        EXTDATA: INFO: ---- 00085: SU_DMSO
+        EXTDATA: INFO: ---- 00086: SU_H2O2
+        EXTDATA: INFO: ---- 00087: SU_NO3
+        EXTDATA: INFO: ---- 00088: SU_OH
+        EXTDATA: INFO: ---- 00089: SU_SHIPSO2
+        EXTDATA: INFO: ---- 00090: SU_SHIPSO4
+        EXTDATA: INFO: ---- 00091: TR_LAI_FRAC
+        EXTDATA: INFO: ---- 00092: TR_VEG_FRAC
+        EXTDATA: INFO: ---- 00093: TR_regionMask
+        EXTDATA: INFO: ---- 00094: WSUB_CLIM
+        EXTDATA: INFO: ---- 00095: pSO2_OCS
+        EXTDATA: INFO: *******************************************************
+
+        EXTDATA: INFO: BC_AIRCRAFT updated L bracket with: ExtData/chemistry/CEDS/v2021-04-21/L72/BC-em-AIR-anthro_input4MIPs_emissions_CMIP_CEDS-2021-04-21_gn__aviation.x576_y361_z72_t12.2021.nc4 at time index   5
+        EXTDATA: INFO: BC_AIRCRAFT updated R bracket with: ExtData/chemistry/CEDS/v2021-04-21/L72/BC-em-AIR-anthro_input4MIPs_emissions_CMIP_CEDS-2021-04-21_gn__aviation.x576_y361_z72_t12.2021.nc4 at time index   6
+        EXTDATA: INFO: BC_ANTEBC1 updated L bracket with: ExtData/chemistry/CEDS/v2021-04-21/sfc/BC-em-anthro_CMIP_CEDS_gn_nonenergy.x2304_y1441_t12.2021.nc4 at time index   5
+        EXTDATA: INFO: BC_ANTEBC1 updated R bracket with: ExtData/chemistry/CEDS/v2021-04-21/sfc/BC-em-anthro_CMIP_CEDS_gn_nonenergy.x2304_y1441_t12.2021.nc4 at time index   6
+        EXTDATA: INFO: BC_ANTEBC2 updated L bracket with: ExtData/chemistry/CEDS/v2021-04-21/sfc/BC-em-anthro_CMIP_CEDS_gn_energy.x2304_y1441_t12.2021.nc4 at time index   5
+        EXTDATA: INFO: BC_ANTEBC2 updated R bracket with: ExtData/chemistry/CEDS/v2021-04-21/sfc/BC-em-anthro_CMIP_CEDS_gn_energy.x2304_y1441_t12.2021.nc4 at time index   6
+        EXTDATA: INFO: BC_BIOMASS updated L bracket with: ExtData/chemistry/QFED/v2.5r1/sfc/0.1/Y2021/M06/qfed2.emis_bc.006.20210615.nc4 at time index   1
+        EXTDATA: INFO: BC_BIOMASS updated R bracket with: ExtData/chemistry/QFED/v2.5r1/sfc/0.1/Y2021/M06/qfed2.emis_bc.006.20210616.nc4 at time index   1
+        EXTDATA: INFO: BC_SHIP updated L bracket with: ExtData/chemistry/CEDS/v2021-04-21/sfc/BC-em-anthro_CMIP_CEDS_gn_shipping.x2304_y1441_t12.2021.nc4 at time index   5
+        EXTDATA: INFO: BC_SHIP updated R bracket with: ExtData/chemistry/CEDS/v2021-04-21/sfc/BC-em-anthro_CMIP_CEDS_gn_shipping.x2304_y1441_t12.2021.nc4 at time index   6
+        EXTDATA: INFO: BRC_BIOMASS updated L bracket with: ExtData/chemistry/QFED/v2.5r1/sfc/0.1/Y2021/M06/qfed2.emis_oc.006.20210615.nc4 at time index   1
+        EXTDATA: INFO: BRC_BIOMASS updated R bracket with: ExtData/chemistry/QFED/v2.5r1/sfc/0.1/Y2021/M06/qfed2.emis_oc.006.20210616.nc4 at time index   1
+        EXTDATA: INFO: CLM4_PFT_BARE updated L bracket with: ExtData/chemistry/HEMCO/v0.0.0/sfc/CLM4_PFT.geos.025x03125.esmf.nc at time index   1
+        EXTDATA: INFO: CLM4_PFT_BDLF_DECD_BORL_SHRB updated L bracket with: ExtData/chemistry/HEMCO/v0.0.0/sfc/CLM4_PFT.geos.025x03125.esmf.nc at time index   1
+        EXTDATA: INFO: CLM4_PFT_BDLF_DECD_BORL_TREE updated L bracket with: ExtData/chemistry/HEMCO/v0.0.0/sfc/CLM4_PFT.geos.025x03125.esmf.nc at time index   1
+        EXTDATA: INFO: CLM4_PFT_BDLF_DECD_TMPT_SHRB updated L bracket with: ExtData/chemistry/HEMCO/v0.0.0/sfc/CLM4_PFT.geos.025x03125.esmf.nc at time index   1
+        EXTDATA: INFO: CLM4_PFT_BDLF_DECD_TMPT_TREE updated L bracket with: ExtData/chemistry/HEMCO/v0.0.0/sfc/CLM4_PFT.geos.025x03125.esmf.nc at time index   1
+        EXTDATA: INFO: CLM4_PFT_BDLF_DECD_TROP_TREE updated L bracket with: ExtData/chemistry/HEMCO/v0.0.0/sfc/CLM4_PFT.geos.025x03125.esmf.nc at time index   1
+        EXTDATA: INFO: CLM4_PFT_BDLF_EVGN_SHRB updated L bracket with: ExtData/chemistry/HEMCO/v0.0.0/sfc/CLM4_PFT.geos.025x03125.esmf.nc at time index   1
+        EXTDATA: INFO: CLM4_PFT_BDLF_EVGN_TMPT_TREE updated L bracket with: ExtData/chemistry/HEMCO/v0.0.0/sfc/CLM4_PFT.geos.025x03125.esmf.nc at time index   1
+        EXTDATA: INFO: CLM4_PFT_BDLF_EVGN_TROP_TREE updated L bracket with: ExtData/chemistry/HEMCO/v0.0.0/sfc/CLM4_PFT.geos.025x03125.esmf.nc at time index   1
+        EXTDATA: INFO: CLM4_PFT_C3_ARCT_GRSS updated L bracket with: ExtData/chemistry/HEMCO/v0.0.0/sfc/CLM4_PFT.geos.025x03125.esmf.nc at time index   1
+        EXTDATA: INFO: CLM4_PFT_C3_NARC_GRSS updated L bracket with: ExtData/chemistry/HEMCO/v0.0.0/sfc/CLM4_PFT.geos.025x03125.esmf.nc at time index   1
+        EXTDATA: INFO: CLM4_PFT_C4_GRSS updated L bracket with: ExtData/chemistry/HEMCO/v0.0.0/sfc/CLM4_PFT.geos.025x03125.esmf.nc at time index   1
+        EXTDATA: INFO: CLM4_PFT_CROP updated L bracket with: ExtData/chemistry/HEMCO/v0.0.0/sfc/CLM4_PFT.geos.025x03125.esmf.nc at time index   1
+        EXTDATA: INFO: CLM4_PFT_NDLF_DECD_BORL_TREE updated L bracket with: ExtData/chemistry/HEMCO/v0.0.0/sfc/CLM4_PFT.geos.025x03125.esmf.nc at time index   1
+        EXTDATA: INFO: CLM4_PFT_NDLF_EVGN_BORL_TREE updated L bracket with: ExtData/chemistry/HEMCO/v0.0.0/sfc/CLM4_PFT.geos.025x03125.esmf.nc at time index   1
+        EXTDATA: INFO: CLM4_PFT_NDLF_EVGN_TMPT_TREE updated L bracket with: ExtData/chemistry/HEMCO/v0.0.0/sfc/CLM4_PFT.geos.025x03125.esmf.nc at time index   1
+        EXTDATA: INFO: CO_BF updated L bracket with: ExtData/PIESA/sfc/co_biofuel_v2.x360_y181_t12.2001.nc at time index   5
+        EXTDATA: INFO: CO_BF updated R bracket with: ExtData/PIESA/sfc/co_biofuel_v2.x360_y181_t12.2001.nc at time index   6
+        EXTDATA: INFO: CO_BIOMASS updated L bracket with: ExtData/chemistry/QFED/v2.5r1/sfc/0.1/Y2021/M06/qfed2.emis_co.006.20210615.nc4 at time index   1
+        EXTDATA: INFO: CO_BIOMASS updated R bracket with: ExtData/chemistry/QFED/v2.5r1/sfc/0.1/Y2021/M06/qfed2.emis_co.006.20210616.nc4 at time index   1
+        EXTDATA: INFO: CO_BIOMASS_VOC updated L bracket with: ExtData/chemistry/QFED/v2.5r1/sfc/0.1/Y2021/M06/qfed2.emis_co.006.20210615.nc4 at time index   1
+        EXTDATA: INFO: CO_BIOMASS_VOC updated R bracket with: ExtData/chemistry/QFED/v2.5r1/sfc/0.1/Y2021/M06/qfed2.emis_co.006.20210616.nc4 at time index   1
+        EXTDATA: INFO: CO_CH4 updated L bracket with: ExtData/PIESA/L72/gmi_oh_ch4_h2o2_no3.x144_y91_z72_t12.2006.nc at time index   6
+        EXTDATA: INFO: CO_CH4 updated R bracket with: ExtData/PIESA/L72/gmi_oh_ch4_h2o2_no3.x144_y91_z72_t12.2006.nc at time index   7
+        EXTDATA: INFO: CO_FS updated L bracket with: ExtData/PIESA/sfc/co_fossilfuel_v2.x360_y181_t12.2001.nc at time index   5
+        EXTDATA: INFO: CO_FS updated R bracket with: ExtData/PIESA/sfc/co_fossilfuel_v2.x360_y181_t12.2001.nc at time index   6
+        EXTDATA: INFO: CO_FS_VOC updated L bracket with: ExtData/chemistry/CEDS/v2021-04-21/sfc/CO-em-anthro_CMIP_CEDS_gn.x2304_y1441_t12.2021.nc4 at time index   5
+        EXTDATA: INFO: CO_FS_VOC updated R bracket with: ExtData/chemistry/CEDS/v2021-04-21/sfc/CO-em-anthro_CMIP_CEDS_gn.x2304_y1441_t12.2021.nc4 at time index   6
+        EXTDATA: INFO: CO_ISOP updated L bracket with: ExtData/PIESA/sfc/co_biogenic.x288_y181_t12.2006.nc at time index   6
+        EXTDATA: INFO: CO_ISOP updated R bracket with: ExtData/PIESA/sfc/co_biogenic.x288_y181_t12.2006.nc at time index   7
+        EXTDATA: INFO: CO_NVOC updated L bracket with: ExtData/PIESA/sfc/co_biogenic.x288_y181_t12.2006.nc at time index   6
+        EXTDATA: INFO: CO_NVOC updated R bracket with: ExtData/PIESA/sfc/co_biogenic.x288_y181_t12.2006.nc at time index   7
+        EXTDATA: INFO: CO_OH updated L bracket with: ExtData/PIESA/L72/gmi_oh_ch4_h2o2_no3.x144_y91_z72_t12.2006.nc at time index   6
+        EXTDATA: INFO: CO_OH updated R bracket with: ExtData/PIESA/L72/gmi_oh_ch4_h2o2_no3.x144_y91_z72_t12.2006.nc at time index   7
+        EXTDATA: INFO: CO_TERP updated L bracket with: ExtData/PIESA/sfc/co_biogenic.x288_y181_t12.2006.nc at time index   6
+        EXTDATA: INFO: CO_TERP updated R bracket with: ExtData/PIESA/sfc/co_biogenic.x288_y181_t12.2006.nc at time index   7
+        EXTDATA: INFO: DU_SRC updated L bracket with: ExtData/chemistry/DUST/v0.0.0/sfc/gocart.dust_source.v5a.x1152_y721.nc at time index   1
+        EXTDATA: INFO: EMI_NH3_BB updated L bracket with: ExtData/chemistry/QFED/v2.5r1/sfc/0.1/Y2021/M06/qfed2.emis_nh3.006.20210615.nc4 at time index   1
+        EXTDATA: INFO: EMI_NH3_BB updated R bracket with: ExtData/chemistry/QFED/v2.5r1/sfc/0.1/Y2021/M06/qfed2.emis_nh3.006.20210616.nc4 at time index   1
+        EXTDATA: INFO: EMI_NH3_EN updated L bracket with: ExtData/chemistry/CEDS/v2021-04-21/sfc/NH3-em-anthro_CMIP_CEDS_gn.x2304_y1441_t12.2021.nc4 at time index   5
+        EXTDATA: INFO: EMI_NH3_EN updated R bracket with: ExtData/chemistry/CEDS/v2021-04-21/sfc/NH3-em-anthro_CMIP_CEDS_gn.x2304_y1441_t12.2021.nc4 at time index   6
+        EXTDATA: INFO: EMI_NH3_OC updated L bracket with: ExtData/chemistry/GEIA/v0.0.0/sfc/GEIA.emis_NH3.ocean.x576_y361.t12.20080715_12z.nc4 at time index   5
+        EXTDATA: INFO: EMI_NH3_OC updated R bracket with: ExtData/chemistry/GEIA/v0.0.0/sfc/GEIA.emis_NH3.ocean.x576_y361.t12.20080715_12z.nc4 at time index   6
+        EXTDATA: INFO: MEGAN_AEF_BPIN updated L bracket with: ExtData/chemistry/HEMCO/v0.0.0/sfc/MEGAN2.1_EF.geos.025x03125.esmf.nc at time index   1
+        EXTDATA: INFO: MEGAN_AEF_CARE updated L bracket with: ExtData/chemistry/HEMCO/v0.0.0/sfc/MEGAN2.1_EF.geos.025x03125.esmf.nc at time index   1
+        EXTDATA: INFO: MEGAN_AEF_ISOP updated L bracket with: ExtData/chemistry/HEMCO/v0.0.0/sfc/MEGAN2.1_EF.geos.025x03125.esmf.nc at time index   1
+        EXTDATA: INFO: MEGAN_AEF_LIMO updated L bracket with: ExtData/chemistry/HEMCO/v0.0.0/sfc/MEGAN2.1_EF.geos.025x03125.esmf.nc at time index   1
+        EXTDATA: INFO: MEGAN_AEF_MBOX updated L bracket with: ExtData/chemistry/HEMCO/v0.0.0/sfc/MEGAN2.1_EF.geos.025x03125.esmf.nc at time index   1
+        EXTDATA: INFO: MEGAN_AEF_OCIM updated L bracket with: ExtData/chemistry/HEMCO/v0.0.0/sfc/MEGAN2.1_EF.geos.025x03125.esmf.nc at time index   1
+        EXTDATA: INFO: MEGAN_AEF_SABI updated L bracket with: ExtData/chemistry/HEMCO/v0.0.0/sfc/MEGAN2.1_EF.geos.025x03125.esmf.nc at time index   1
+        EXTDATA: INFO: MEGAN_ORVC updated L bracket with: ExtData/chemistry/HEMCO/v0.0.0/sfc/NVOC.geos.1x1.esmf.nc at time index   6
+        EXTDATA: INFO: MEGAN_ORVC updated R bracket with: ExtData/chemistry/HEMCO/v0.0.0/sfc/NVOC.geos.1x1.esmf.nc at time index   7
+        EXTDATA: INFO: NITRATE_HNO3 updated L bracket with: ExtData/chemistry/MERRA2GMI/v0.0.0/L72/MERRA2_GMI.tavg24_3d_dac_Nv.x576_y361_t12.2021.nc4 at time index   5
+        EXTDATA: INFO: NITRATE_HNO3 updated R bracket with: ExtData/chemistry/MERRA2GMI/v0.0.0/L72/MERRA2_GMI.tavg24_3d_dac_Nv.x576_y361_t12.2021.nc4 at time index   6
+        EXTDATA: INFO: OC_AIRCRAFT updated L bracket with: ExtData/chemistry/CEDS/v2021-04-21/L72/OC-em-AIR-anthro_input4MIPs_emissions_CMIP_CEDS-2021-04-21_gn__aviation.x576_y361_z72_t12.2021.nc4 at time index   5
+        EXTDATA: INFO: OC_AIRCRAFT updated R bracket with: ExtData/chemistry/CEDS/v2021-04-21/L72/OC-em-AIR-anthro_input4MIPs_emissions_CMIP_CEDS-2021-04-21_gn__aviation.x576_y361_z72_t12.2021.nc4 at time index   6
+        EXTDATA: INFO: OC_ANTEOC1 updated L bracket with: ExtData/chemistry/CEDS/v2021-04-21/sfc/OC-em-anthro_CMIP_CEDS_gn_nonenergy.x2304_y1441_t12.2021.nc4 at time index   5
+        EXTDATA: INFO: OC_ANTEOC1 updated R bracket with: ExtData/chemistry/CEDS/v2021-04-21/sfc/OC-em-anthro_CMIP_CEDS_gn_nonenergy.x2304_y1441_t12.2021.nc4 at time index   6
+        EXTDATA: INFO: OC_ANTEOC2 updated L bracket with: ExtData/chemistry/CEDS/v2021-04-21/sfc/OC-em-anthro_CMIP_CEDS_gn_energy.x2304_y1441_t12.2021.nc4 at time index   5
+        EXTDATA: INFO: OC_ANTEOC2 updated R bracket with: ExtData/chemistry/CEDS/v2021-04-21/sfc/OC-em-anthro_CMIP_CEDS_gn_energy.x2304_y1441_t12.2021.nc4 at time index   6
+        EXTDATA: INFO: OC_SHIP updated L bracket with: ExtData/chemistry/CEDS/v2021-04-21/sfc/OC-em-anthro_CMIP_CEDS_gn_shipping.x2304_y1441_t12.2021.nc4 at time index   5
+        EXTDATA: INFO: OC_SHIP updated R bracket with: ExtData/chemistry/CEDS/v2021-04-21/sfc/OC-em-anthro_CMIP_CEDS_gn_shipping.x2304_y1441_t12.2021.nc4 at time index   6
+        EXTDATA: INFO: OH updated L bracket with: ExtData/chemistry/MERRA2GMI/v0.0.0/L72/MERRA2_GMI.tavg24_3d_dac_Nv.x576_y361_t12.2021.nc4 at time index   5
+        EXTDATA: INFO: OH updated R bracket with: ExtData/chemistry/MERRA2GMI/v0.0.0/L72/MERRA2_GMI.tavg24_3d_dac_Nv.x576_y361_t12.2021.nc4 at time index   6
+        EXTDATA: INFO: SRC_2D_CH3I updated L bracket with: ExtData/g5chem/sfc/unity.x144_y91.nc at time index   1
+        EXTDATA: INFO: SRC_2D_Rn222 updated L bracket with: ExtData/g5chem/sfc/Rn222.Zhang_Liu_et_al.x720_y360_t12.nc4 at time index   5
+        EXTDATA: INFO: SRC_2D_Rn222 updated R bracket with: ExtData/g5chem/sfc/Rn222.Zhang_Liu_et_al.x720_y360_t12.nc4 at time index   6
+        EXTDATA: INFO: SU_AIRCRAFT updated L bracket with: ExtData/chemistry/CEDS/v2021-04-21/L72/SO2-em-AIR-anthro_input4MIPs_emissions_CMIP_CEDS-2021-04-21_gn__aviation.x576_y361_z72_t12.2021.nc4 at time index   5
+        EXTDATA: INFO: SU_AIRCRAFT updated R bracket with: ExtData/chemistry/CEDS/v2021-04-21/L72/SO2-em-AIR-anthro_input4MIPs_emissions_CMIP_CEDS-2021-04-21_gn__aviation.x576_y361_z72_t12.2021.nc4 at time index   6
+        EXTDATA: INFO: SU_ANTHROL1 updated L bracket with: ExtData/chemistry/CEDS/v2021-04-21/sfc/SO2-em-anthro_CMIP_CEDS_gn_nonenergy.x2304_y1441_t12.2021.nc4 at time index   5
+        EXTDATA: INFO: SU_ANTHROL1 updated R bracket with: ExtData/chemistry/CEDS/v2021-04-21/sfc/SO2-em-anthro_CMIP_CEDS_gn_nonenergy.x2304_y1441_t12.2021.nc4 at time index   6
+        EXTDATA: INFO: SU_ANTHROL2 updated L bracket with: ExtData/chemistry/CEDS/v2021-04-21/sfc/SO2-em-anthro_CMIP_CEDS_gn_energy.x2304_y1441_t12.2021.nc4 at time index   5
+        EXTDATA: INFO: SU_ANTHROL2 updated R bracket with: ExtData/chemistry/CEDS/v2021-04-21/sfc/SO2-em-anthro_CMIP_CEDS_gn_energy.x2304_y1441_t12.2021.nc4 at time index   6
+        EXTDATA: INFO: SU_BIOMASS updated L bracket with: ExtData/chemistry/QFED/v2.5r1/sfc/0.1/Y2021/M06/qfed2.emis_so2.006.20210615.nc4 at time index   1
+        EXTDATA: INFO: SU_BIOMASS updated R bracket with: ExtData/chemistry/QFED/v2.5r1/sfc/0.1/Y2021/M06/qfed2.emis_so2.006.20210616.nc4 at time index   1
+        EXTDATA: INFO: SU_DMSO updated L bracket with: ExtData/chemistry/Lana/v2011/DMSclim_sfcconcentration.x360_y181_t12.Lana2011.nc4 at time index   5
+        EXTDATA: INFO: SU_DMSO updated R bracket with: ExtData/chemistry/Lana/v2011/DMSclim_sfcconcentration.x360_y181_t12.Lana2011.nc4 at time index   6
+        EXTDATA: INFO: SU_H2O2 updated L bracket with: ExtData/chemistry/MERRA2GMI/v0.0.0/L72/MERRA2_GMI.tavg24_3d_dac_Nv.x576_y361_t12.2021.nc4 at time index   5
+        EXTDATA: INFO: SU_H2O2 updated R bracket with: ExtData/chemistry/MERRA2GMI/v0.0.0/L72/MERRA2_GMI.tavg24_3d_dac_Nv.x576_y361_t12.2021.nc4 at time index   6
+        EXTDATA: INFO: SU_NO3 updated L bracket with: ExtData/chemistry/MERRA2GMI/v0.0.0/L72/MERRA2_GMI.tavg24_3d_dac_Nv.x576_y361_t12.2021.nc4 at time index   5
+        EXTDATA: INFO: SU_NO3 updated R bracket with: ExtData/chemistry/MERRA2GMI/v0.0.0/L72/MERRA2_GMI.tavg24_3d_dac_Nv.x576_y361_t12.2021.nc4 at time index   6
+        EXTDATA: INFO: SU_OH updated L bracket with: ExtData/chemistry/MERRA2GMI/v0.0.0/L72/MERRA2_GMI.tavg24_3d_dac_Nv.x576_y361_t12.2021.nc4 at time index   5
+        EXTDATA: INFO: SU_OH updated R bracket with: ExtData/chemistry/MERRA2GMI/v0.0.0/L72/MERRA2_GMI.tavg24_3d_dac_Nv.x576_y361_t12.2021.nc4 at time index   6
+        EXTDATA: INFO: SU_SHIPSO2 updated L bracket with: ExtData/chemistry/CEDS/v2021-04-21/sfc/SO2-em-anthro_CMIP_CEDS_gn_shipping.x2304_y1441_t12.2021.nc4 at time index   5
+        EXTDATA: INFO: SU_SHIPSO2 updated R bracket with: ExtData/chemistry/CEDS/v2021-04-21/sfc/SO2-em-anthro_CMIP_CEDS_gn_shipping.x2304_y1441_t12.2021.nc4 at time index   6
+        EXTDATA: INFO: SU_SHIPSO4 updated L bracket with: ExtData/chemistry/CEDS/v2021-04-21/sfc/SO4-em-anthro_CMIP_CEDS_gn_shipping.x2304_y1441_t12.2021.nc4 at time index   5
+        EXTDATA: INFO: SU_SHIPSO4 updated R bracket with: ExtData/chemistry/CEDS/v2021-04-21/sfc/SO4-em-anthro_CMIP_CEDS_gn_shipping.x2304_y1441_t12.2021.nc4 at time index   6
+        EXTDATA: INFO: TR_LAI_FRAC updated L bracket with: ExtData/g5chem/sfc/LAI/lai_x720_y360_v72_t12_2008.nc at time index   5
+        EXTDATA: INFO: TR_LAI_FRAC updated R bracket with: ExtData/g5chem/sfc/LAI/lai_x720_y360_v72_t12_2008.nc at time index   6
+        EXTDATA: INFO: TR_VEG_FRAC updated L bracket with: ExtData/g5chem/sfc/LAI/veg_fraction_x720_y360_t12_2008.nc at time index   5
+        EXTDATA: INFO: TR_VEG_FRAC updated R bracket with: ExtData/g5chem/sfc/LAI/veg_fraction_x720_y360_t12_2008.nc at time index   6
+        EXTDATA: INFO: TR_regionMask updated L bracket with: ExtData/g5chem/sfc/RADON.region_mask.x540_y361.2001.nc at time index   1
+srun: Job step aborted: Waiting up to 62 seconds for job step to finish.
+slurmstepd: error: *** JOB 16683881 ON borgf074 CANCELLED AT 2023-06-06T10:36:49 ***
+slurmstepd: error: *** STEP 16683881.1 ON borgf074 CANCELLED AT 2023-06-06T10:36:49 ***
+_________________________________________________________________________
+Job Resource Usage Summary for 16683881
+
+  Job Ended                       : Tue Jun  6 10:36:53 EDT 2023
+
+  Partition                       : compute
+  Head Node                       : borgf074
+  Charged to                      : g0613
+
+  Estimated SBUs                  : .01
+
+  Total Mem Requested / Allocated : 185.54G / 185.54G
+  Max Real Mem Used (on any node) : 4.15G
+  Max Pct Memory Used             : 2.23%
+
+  Walltime Requested              : 00:58:00
+  Walltime Used                   : 00:01:09
+  Pct Walltime Used               : 1.98%
+
+  CPUs Requested / Allocated      : 40 / 40
+  Total CPU-Time Allocated        : 00:46:00 (Walltime Used * #CPUs)
+
+  CPU Utilization of __last hydra_bstrap_proxy cmd only__:
+  User CPU                        : 00:00.083 of 00:30:00
+  System CPU                      : 00:00.146 of 00:30:00
+  Pct CPU Utilization             : 0%
+  
+_________________________________________________________________________
+

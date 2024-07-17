@@ -1,0 +1,201 @@
+schema_version: 1
+
+# Example on how to use the logging.yaml file based on
+#
+#   https://github.com/GEOS-ESM/MAPL/wiki/How-to-use-the-MAPL-logging-library,-aka-%22pFlogger%22
+#
+# Let us say you want to get all the debugging loggers
+# from ExtData in MAPL. To do this you first want to
+# set the 'console' handler below to DEBUG level:
+#
+# handlers:
+#   console:
+#      class: streamhandler
+#      formatter: basic
+#      unit: OUTPUT_UNIT
+#      level: DEBUG
+#
+# Now we need to add a logger for ExtData. We do this
+# by adding the following to the loggers section:
+#
+# loggers:
+#    CAP.EXTDATA:
+#       handlers: [console]
+#       level: WARNING
+#       root_level: DEBUG
+
+###############################
+locks:
+   mpi:
+      class: MpiLock
+      comm:  MPI_COMM_WORLD
+
+###############################
+formatters:
+   plain:
+      class: Formatter
+      format:  '%(message)a'
+
+   basic:
+      class: Formatter
+      format:  '%(short_name)a15~: %(level_name)a~: %(message)a'
+
+   mpi:
+      class: MpiFormatter
+      format:  '%(mpi_rank)i4.4~: %(name)~: %(level_name)a~: %(message)a'
+      comm: MPI_COMM_WORLD
+
+   column:
+      class: Formatter
+      format: '(%(i)i3.3,%(j)i3.3): %(level_name)'
+
+###############################
+handlers:
+
+   console:
+      class: streamhandler
+      formatter: basic
+      unit: OUTPUT_UNIT
+      level: INFO
+
+   console_plain:
+      class: streamhandler
+      formatter: plain
+      unit: OUTPUT_UNIT
+      level: INFO
+
+   warnings:
+      class:  FileHandler
+      filename: warnings_and_errors.log
+      lock: mpi
+      level: WARNING
+      formatter: basic
+
+   errors:
+      class:  StreamHandler
+      formatter: basic
+      unit: ERROR_UNIT
+      level: ERROR
+
+   mpi_shared:
+      class: FileHandler
+      filename: allPEs.log
+      formatter: mpi
+      comm: MPI_COMM_WORLD
+      lock: mpi
+      rank_keyword: rank
+      level: DEBUG
+
+   mpi_debug:
+      class: MpiFileHandler
+      formatter: basic
+      filename:  debug_%(rank)i3.3~.log
+      comm: MPI_COMM_WORLD
+      rank_prefix: rank
+      level: DEBUG
+
+###############################
+root:
+   handlers: [warnings,errors,console]
+   level: WARNING
+   root_level: WARNING
+
+###############################
+loggers:
+
+   errors:
+      handlers: [errors]
+      level: ERROR
+
+   CAP:
+      level: WARNING
+      root_level: INFO
+
+   MAPL:
+      handlers: [mpi_shared]
+      level: WARNING
+      root_level: INFO
+
+   MAPL.profiler:
+      handlers: [console_plain]
+      propagate: FALSE
+      level: WARNING
+      root_level: INFO
+
+  # Note: When enabling another logger, make sure
+  #       indentation matches that of the above
+  #       loggers!
+
+  # MAPL.base:
+  # MAPL.generic:
+  # MAPL.pfio
+
+  # SHARED.GMAOSHARED.GEOSSHARED.QSAT:
+
+  # CAP.EXTDATA:
+  # CAP.HISTORY:
+  # CAP.GCM.DATATM:
+  # CAP.GCM.AGCM:
+  # CAP.GCM.AGCM.SCMDYNAMICS:
+  # CAP.GCM.AGCM.SCMDYNAMICS.DYN:
+  # CAP.GCM.AGCM.SCMDYNAMICS.ADV:
+  # CAP.GCM.AGCM.SUPERDYNAMICS:
+  # CAP.GCM.AGCM.SUPERDYNAMICS.DYN:
+  # CAP.GCM.AGCM.SUPERDYNAMICS.ADV:
+  # CAP.GCM.AGCM.PHYSICS:
+  # CAP.GCM.AGCM.PHYSICS.GWD:
+  # CAP.GCM.AGCM.PHYSICS.MOIST:
+  # CAP.GCM.AGCM.PHYSICS.TURBULENCE:
+  # CAP.GCM.AGCM.PHYSICS.CHEMISTRY:
+  # CAP.GCM.AGCM.PHYSICS.CHEMISTRY.HEMCO:
+  # CAP.GCM.AGCM.PHYSICS.CHEMISTRY.PCHEM:
+  # CAP.GCM.AGCM.PHYSICS.CHEMISTRY.ACHEM:
+  # CAP.GCM.AGCM.PHYSICS.CHEMISTRY.GOCART2G:
+  # CAP.GCM.AGCM.PHYSICS.CHEMISTRY.GOCART2G.CA.bc:
+  # CAP.GCM.AGCM.PHYSICS.CHEMISTRY.GOCART2G.CA.br:
+  # CAP.GCM.AGCM.PHYSICS.CHEMISTRY.GOCART2G.CA.oc:
+  # CAP.GCM.AGCM.PHYSICS.CHEMISTRY.GOCART2G.DU:
+  # CAP.GCM.AGCM.PHYSICS.CHEMISTRY.GOCART2G.NI:
+  # CAP.GCM.AGCM.PHYSICS.CHEMISTRY.GOCART2G.SS:
+  # CAP.GCM.AGCM.PHYSICS.CHEMISTRY.GOCART2G.SU:
+  # CAP.GCM.AGCM.PHYSICS.CHEMISTRY.GOCART.CFC:
+  # CAP.GCM.AGCM.PHYSICS.CHEMISTRY.GOCART.CH4:
+  # CAP.GCM.AGCM.PHYSICS.CHEMISTRY.GOCART.CO2:
+  # CAP.GCM.AGCM.PHYSICS.CHEMISTRY.GOCART.CO:
+  # CAP.GCM.AGCM.PHYSICS.CHEMISTRY.GOCART.O3:
+  # CAP.GCM.AGCM.PHYSICS.CHEMISTRY.GOCART.Rn:
+  # CAP.GCM.AGCM.PHYSICS.CHEMISTRY.GAAS:
+  # CAP.GCM.AGCM.PHYSICS.CHEMISTRY.H2O:
+  # CAP.GCM.AGCM.PHYSICS.CHEMISTRY.STRATCHEM:
+  # CAP.GCM.AGCM.PHYSICS.CHEMISTRY.GMICHEM:
+  # CAP.GCM.AGCM.PHYSICS.CHEMISTRY.CARMA:
+  # CAP.GCM.AGCM.PHYSICS.CHEMISTRY.GEOSCHEMCHEM:
+  # CAP.GCM.AGCM.PHYSICS.CHEMISTRY.MATRIX:
+  # CAP.GCM.AGCM.PHYSICS.CHEMISTRY.MAM:
+  # CAP.GCM.AGCM.PHYSICS.CHEMISTRY.TR:
+  # CAP.GCM.AGCM.PHYSICS.CHEMISTRY.DNA:
+  # CAP.GCM.AGCM.PHYSICS.SURFACE:
+  # CAP.GCM.AGCM.PHYSICS.SURFACE.SALTWATER:
+  # CAP.GCM.AGCM.PHYSICS.SURFACE.LAKE:
+  # CAP.GCM.AGCM.PHYSICS.SURFACE.LANDICE:
+  # CAP.GCM.AGCM.PHYSICS.SURFACE.LAND:
+  # CAP.GCM.AGCM.PHYSICS.SURFACE.LAND.VEGDYN:
+  # CAP.GCM.AGCM.PHYSICS.SURFACE.LAND.<CATCH>:
+  # CAP.GCM.AGCM.PHYSICS.SURFACE.LAND.<CATCHCN>:
+  # CAP.GCM.AGCM.PHYSICS.SURFACE.LAND.<ens>:
+  # CAP.GCM.AGCM.PHYSICS.RADIATION:
+  # CAP.GCM.AGCM.PHYSICS.RADIATION.SOLAR:
+  # CAP.GCM.AGCM.PHYSICS.RADIATION.IRRAD:
+  # CAP.GCM.AGCM.PHYSICS.RADIATION.SATSIM:
+  # CAP.GCM.AGCM.ORBIT:
+  # CAP.GCM.AIAU:
+  # CAP.GCM.OGCM:
+  # CAP.GCM.OGCM.OBIO:
+  # CAP.GCM.OGCM.ORAD:
+  # CAP.GCM.OGCM.SEAICE:
+  # CAP.GCM.OGCM.SEAICEdata:
+  # CAP.GCM.OGCM.OCEAN:
+  # CAP.GCM.OGCM.OCEAN.DATASEA:
+  # CAP.GCM.OGCM.OCEAN.MOM:
+  # CAP.GCM.OGCM.OCEAN.MOM6:
+
