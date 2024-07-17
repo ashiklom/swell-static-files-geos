@@ -1,3 +1,7 @@
-restarts/*/*.nc filter=lfs diff=lfs merge=lfs -text
-restarts/*/*_rst filter=lfs diff=lfs merge=lfs -text
-restarts/*/*.bin filter=lfs diff=lfs merge=lfs -text
+restarts/restarts_20210601_030000/*.nc filter=lfs diff=lfs merge=lfs -text
+restarts/restarts_20210601_030000/*_rst filter=lfs diff=lfs merge=lfs -text
+restarts/restarts_20210601_030000/*.bin filter=lfs diff=lfs merge=lfs -text
+
+restarts/restarts_20210620_000000/*.nc filter=lfs diff=lfs merge=lfs -text
+restarts/restarts_20210620_000000/*_rst filter=lfs diff=lfs merge=lfs -text
+restarts/restarts_20210620_000000/*.bin filter=lfs diff=lfs merge=lfs -text
